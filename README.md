@@ -1,10 +1,10 @@
-#Live Action Mafia Rules
+﻿#Live Action Mafia Rules
 
 ##Communication
 
-Kellena are the Gods for this game. You may communicate with them by messaging their account (Kellena) on the mafia forums, sending them an email (kellena@mit.edu), or by communicating with them in private. Any method is acceptable, but please send all messages to this account/mailing list and not to us individually.
+Jammy are the Mods for this game. You may communicate with them by messaging their account (Jammy) on the mafia forums, sending them an email (jammy@mit.edu), or by communicating with them in private. Any method is acceptable, but please send all messages to this account/mailing list and not to us individually.
 
-Communication with the Gods is sacred. Do not reveal anything about what the Gods communicate to you, except what you have learned through official game actions. 
+Communication with the Mods is sacred. Do not reveal anything about what the Mods communicate to you, except what you have learned through official game actions. 
 
 The forums at mafia.mit.edu have three sub-forums for this game. The Town Square is for all living players to communicate in. The Mafia Den is for the living mafia and anyone they choose to add. The Graveyard is for the dead players.
 
@@ -16,7 +16,7 @@ The Town wins if all mafia are dead. The mafia wins if all townies are dead. If 
 
 ##Kills
 
-Some players can kill another player by tapping them on the shoulder and saying “BANG” or “KABOOM.” If this happens to you, you are dead, unless you know otherwise. **Dead players tell no tales. They do not communicate, give general advice to, or make facial expressions towards living players or non-players.** If you died to a “BANG”, all of your items now belong to the person who killed you. Try to get the physical representations to them. Also, please let the Gods know who killed you, where, and when. If you killed someone, also please let the Gods know who, where, and when.
+Some players can kill another player by tapping them on the shoulder and saying “BANG” or “KABOOM.” If this happens to you, you are dead, unless you know otherwise. **Dead players tell no tales. They do not communicate, give general advice to, or make facial expressions towards living players or non-players.** If you died to a “BANG”, all of your items now belong to the person who killed you. Try to get the physical representations to them. Also, please let the Mods know who killed you, where, and when. If you killed someone, also please let the Mods know who, where, and when.
 
 If you are dead, and someone tries to talk to you about game, you must respond with “I can’t talk about that.” All players (including ghosts) must respond truthfully to inquiries about whether they are alive.
 
@@ -25,7 +25,7 @@ Kills will be announced officially on the forums. If a kill announcement happens
 
 ##Lynches
 
-Each day, each player may cast a vote for a player to lynch. You may vote for No Lynch.You may make conditional votes (ex: Vote for player X unless there’s another kill, otherwise vote for player Y). Gods will count only your latest submission (ex: you voted for Ellena at 9:07pm, but then voted again for kemus at 9:09pm, you will be counted as voting to lynch kemus). At Day End (11 PM), whoever has the most votes is lynched, and all votes are cleared. The tiebreaker between players is whoever placed higher on the previous day. If both players had the same number of votes every day of game, all tied players will be lynched.
+Each day, each player may cast a vote for a player to lynch. You may vote for No Lynch.You may make conditional votes (ex: Vote for player X unless there’s another kill, otherwise vote for player Y). Mods will count only your latest submission (ex: you voted for sammyluo at 9:07pm, but then voted again for jakob at 9:09pm, you will be counted as voting to lynch jakob). At Day End (11 PM), whoever has the most votes is lynched, and all votes are cleared. The tiebreaker between players is whoever placed higher on the previous day. If both players had the same number of votes every day of game, all tied players will be lynched.
 
 ##Alibis
 
@@ -48,25 +48,25 @@ Information created electronically may never be shown to any other player, and o
 ##Town Roles:
 
 ###Investigator
-Whenever a kill is made, a number of clues spawn equal to 1+[number of serial killers]. Investigators may visit a kill location to study all clues at that kill location. On each visit to the murder location, the Gods will inform them how many clues they find. Note that Serial Killers can destroy evidence (see serial killer section below).
+Whenever a kill is made, a number of clues spawn equal to 1+[number of serial killers]. Investigators may visit a kill location to study all clues at that kill location. On each visit to the murder location, the Mods will inform them how many clues they find. Note that Serial Killers can destroy evidence (see serial killer section below).
 
-Once per day, an investigator may ask the Gods a question of the form “Did X kill Y?” A single investigator can only make as many total investigations of a player’s death as they found clues at that player’s murder location upon the first visit.
+Once per day, an investigator may ask the Mods a question of the form “Did X kill Y?” A single investigator can only make as many total investigations of a player’s death as they found clues at that player’s murder location upon the first visit.
 
 After studying a kill location, an investigator may return to it to count the clues again, but they wait at least an hour before studying the same kill location. The updated clue count does not add to or detract from the number of investigations the investigator can make.
 
 ###Superhero
 
-The superhero has two forms: _Superhero Identity_ and _Secret Identity_. Before the start of each day, the superhero can tell the Gods which identity they want to be on the following day. Gods will use a default of _Secret Identity_ unless told otherwise.
+The superhero has two forms: _Superhero Identity_ and _Secret Identity_. Before the start of each day, the superhero can tell the Mods which identity they want to be on the following day. Mods will use a default of _Secret Identity_ unless told otherwise.
 
 **Investigations:** While in _Secret Identity_, the superhero may visit murder sites and study clues, as if they were an investigator. While in _Superhero Identity_, they may make investigations as if they were an investigator.
 
 **Immunity:** Every time the superhero chooses to be in their _Superhero Identity_, they can also choose one person to add to their paranoia list. If, on the day that they are in _Superhero Identity_, that person dies, their paranoia activates for the following day. Then, if they are in their _Secret Identity_ the day their paranoia is active, they can respond to all attempts to use "BANG" with "I do not die." Paranoia has no effect on the _Superhero Identity_. 
 
-(ex of immunity: Ellena, the superhero, PMs the Gods on day 1 that she wants to be in her _Superhero Identity _day 2, with Kemus on her paranoia list. Sometime during day 2, Kemus happens to be killed, and Ellena PMs the gods that she would like to be in her _Secret identity _the following day. Day 3 comes, and the mafia that killed Kemus tries to “BANG” Ellena, too, but since her paranoia is active, she responds with “I do not die” and outs the damn rascal.)
+(ex of immunity: sammyluo, the superhero, PMs the Mods on day 1 that he wants to be in his _Superhero Identity_ day 2, with jakob on his paranoia list. Sometime during day 2, jakob happens to be killed, and sammyluo PMs the mods that he would like to be in his _Secret identity_ the following day. Day 3 comes, and the mafia that killed jakob tries to “BANG” sammyluo, too, but since his paranoia is active, he responds with “I do not die” and outs the silly rascal.)
 
 ###Conspiracy Theorist
 
-Before the start of each day, the Conspiracy Theorist may designate up to 10% of the number of players (rounding up) for their conspiracy list. Gods will assume the list is unchanged unless told otherwise. If anyone on their conspiracy list attempts to use “BANG” on them, they may respond with “I do not die” (You have 10 seconds to say this).
+Before the start of each day, the Conspiracy Theorist may designate up to 10% of the number of players (rounding up) for their conspiracy list. Mods will assume the list is unchanged unless told otherwise. If anyone on their conspiracy list attempts to use “BANG” on them, they may respond with “I do not die” (You have 10 seconds to say this).
 
 
 ###Vigilante
@@ -75,7 +75,7 @@ Once per game, a vigilante may attempt to kill any player by tapping them on the
 
 ###Desperado
 
-Once per game, before the start of a day, the Desperado can tell the Gods that they are going Desperado (you can make the request conditional on day-end events, or cancel the request as long as it’s not too late). While going Desperado, they gain all of the abilities of an investigator. Additionally, if anyone tries to use “BANG” on a desperado who has “gone desperado”, they may respond by saying “I do not die” (You have 10 seconds to say this). After two days of going Desperado, the desperado dies (after the lynch, but before day start).
+Once per game, before the start of a day, the Desperado can tell the Mods that they are going Desperado (you can make the request conditional on day-end events, or cancel the request as long as it’s not too late). While going Desperado, they gain all of the abilities of an investigator. Additionally, if anyone tries to use “BANG” on a desperado who has “gone desperado”, they may respond by saying “I do not die” (You have 10 seconds to say this). After two days of going Desperado, the desperado dies (after the lynch, but before day start).
 
 ###Gay Knight
 
@@ -87,14 +87,14 @@ The innocent child is allowed to use the phrase “I am an Innocent child and I 
 
 ##Elected Roles
 
-Players may make petitions to elect a player to an office, or to impeach a player from that office. Any player can sign each petition once. Election petitions for a role cannot exist while anyone is elected to that role. Impeachment petitions for a role cannot exist unless that player is elected to that role. This means that if another player is elected when your petition was aaaalmost ready, you have to throw it out and run from scratch after they die or are impeached. If a petition has the signatures of more than 50% of the living players, then the player who has the petition can use it by pm-ing the Gods the names of the players who signed. There are two elected roles, and a petition must list the name of the role.
+Players may make petitions to elect a player to an office, or to impeach a player from that office. Any player can sign each petition once. Election petitions for a role cannot exist while anyone is elected to that role. Impeachment petitions for a role cannot exist unless that player is elected to that role. This means that if another player is elected when your petition was aaaalmost ready, you have to throw it out and run from scratch after they die or are impeached. If a petition has the signatures of more than 50% of the living players, then the player who has the petition can use it by pm-ing the Mods the names of the players who signed. There are two elected roles, and a petition must list the name of the role.
 
 
 ###Mayor
 
 The mayor’s vote counts as three votes.
-Twice per game, the mayor may ask the Gods how many mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the mafia during their regime.
-Once per day, they may make a single investigation by asking the Gods “Did X kill Y?” They do not need to collect clues.
+Twice per game, the mayor may ask the Mods how many mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the mafia during their regime.
+Once per day, they may make a single investigation by asking the Mods “Did X kill Y?” They do not need to collect clues.
 Every time a mafia is mayor, they become **Don** (see mafia section below)
 
 ###Police Officer
@@ -105,11 +105,11 @@ Whenever the police officer would use “BANG” on someone, they may always cho
 
 ##Items
 
-The Gods, in their countably infinite benevolence, have given some players items at the start of game. If someone who is lynched has an item, the Gods give it to a random player in game. The Gods always announce to whom they gives items. Anyone may destroy an item by telling the Gods. Players may transfer items to each other in-person. **If you give an item to anyone, you must tell the ****Gods****.**
+The Mods, in their countably infinite benevolence, have given some players items at the start of game. If someone who is lynched has an item, the Mods give it to a random player in game. The Mods always announce to whom they gives items. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. **If you give an item to anyone, you must tell the ****Mods****.**
 
 ###Medkit: (4 in game)
 
-A player with the Medkit may tell the Gods that they are activating the Medkit. Once they do, the Medkit is destroyed. The Medkit is active as soon as the message is sent until the day ends, the person who used the Medkit may respond to any “BANG” attempts by saying “I do not die.” 
+A player with the Medkit may tell the Mods that they are activating the Medkit. Once they do, the Medkit is destroyed. The Medkit is active as soon as the message is sent until the day ends, the person who used the Medkit may respond to any “BANG” attempts by saying “I do not die.” 
 
 ###Shovel: (4 in game)
 
@@ -117,14 +117,14 @@ A player with a shovel may use the shovel to find out all role information of an
 
 ###Microphone/Receiver: (2 pairs in game)
 
-Each Microphone is paired with a receiver. If the player with a microphone is killed with a “BANG”, the player with the corresponding receiver is told the identity of the mafia who killed them. If the player holding the microphone is killed by “KABOOM,” the player with the receiver will be informed only that a “KABOOM” was used. It is extra important that players tell the Gods when receivers are transferred between players, and when a player with a microphone is killed by “BANG,” be sure to include the fact that you had a mic on you in your death pm to the Gods.
+Each Microphone is paired with a receiver. If the player with a microphone is killed with a “BANG”, the player with the corresponding receiver is told the identity of the mafia who killed them. If the player holding the microphone is killed by “KABOOM,” the player with the receiver will be informed only that a “KABOOM” was used. It is extra important that players tell the Mods when receivers are transferred between players, and when a player with a microphone is killed by “BANG,” be sure to include the fact that you had a mic on you in your death pm to the Mods.
 ###Taser: (4 in game)
 
 You may write a target’s name on a taser. Once written, it cannot be erased. 5 minutes after the target’s name has been written on a taser, anyone with the taser who has line-of-sight on the target may say “I TAZE <Name of target>”. A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
 ###Camera/CCTV: (1 pair in game)
 
-The camera is paired with a CCTV receiver. The player with the camera may place it in a Gods-approved location. Once the camera is placed, it cannot be moved or removed by anyone. The holder of the CCTV is informed where the camera was placed. If a kill happens in that location, the holder of the CCTV will see who the killer was, unless a “KABOOM” was used, in which case they will be informed that the TV screen has gone blank. Before it is placed, the camera can be traded or destroyed as any other item. 
+The camera is paired with a CCTV receiver. The player with the camera may place it in a Mods-approved location. Once the camera is placed, it cannot be moved or removed by anyone. The holder of the CCTV is informed where the camera was placed. If a kill happens in that location, the holder of the CCTV will see who the killer was, unless a “KABOOM” was used, in which case they will be informed that the TV screen has gone blank. Before it is placed, the camera can be traded or destroyed as any other item. 
 
 _Acceptable locations_ are things like: Lobby 7 (which sees anything in the lobby, but nothing in the infinite, right outside the doors, or in buildings 5 and 9) or a specific room or lounge. We’ll define limits of exactly what the camera will see with you, these are just examples.
 
@@ -161,7 +161,7 @@ The mafia may use this power to poison a player. At the start of the next day th
 
 ###Set a Trap: (2 charges)
 
-The mafia start the game with 2 set a trap charges. Once per day, the mafia can use a set a trap charge on someone by pm-ing the Gods with a guess about that person’s role. If their guess is correct, then kills on that person by the mafia no longer uses up the daily kill. If the target of a successful guess dies for any reason, the mafia gain a set a trap charge back. If the guess is incorrect the charge is lost.
+The mafia start the game with 2 set a trap charges. Once per day, the mafia can use a set a trap charge on someone by pm-ing the Mods with a guess about that person’s role. If their guess is correct, then kills on that person by the mafia no longer uses up the daily kill. If the target of a successful guess dies for any reason, the mafia gain a set a trap charge back. If the guess is incorrect the charge is lost.
 
 ###Slaughter the Weak: (2 charges)
 
@@ -201,7 +201,7 @@ When a mafia becomes Don, they come up negative for any kills they made in the p
 
 ###Mafia restrictions:
 
-If 3 cumulative days or 2 consecutive days pass by where the mafia don’t make any kills, the town will have one confirmed innocent publicly revealed to them by the Gods. If more than 3 cumulative days or more than 2 consecutive days pass without mafia kills, town automatically wins.
+If 3 cumulative days or 2 consecutive days pass by where the mafia don’t make any kills, the town will have one confirmed innocent publicly revealed to them by the Mods. If more than 3 cumulative days or more than 2 consecutive days pass without mafia kills, town automatically wins.
 
 If the mafia try to kill someone and fail, no mafia can try to kill the same person again on the same day (this is separate from the serial killer’s restriction). 
 
@@ -230,4 +230,4 @@ If the serial killer tries to kill someone and fails, they cannot try to kill th
 
 ##Credits:
 
-Game concept by Alex Arkhipov, with help from Stephanie Schmit. Rules document modified from Adam Kalinich. Special thanks to Peter Iannucci for making the forum work, and David Benjamin for setting up the new web address. Thanks to everyone who commented and gave feedback on the game!
+Game concept by Alex Arkhipov, with help from Stephanie Schmit. Rules document modified from Kevin Mustelier and Ellena Popova. Webapp made by Jakob Weisblat with help from Sammy Luo. Special thanks to Peter Iannucci for making the forum work, and David Benjamin for setting up the new web address. Thanks to everyone who commented and gave feedback on the game!
