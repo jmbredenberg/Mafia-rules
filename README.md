@@ -2,7 +2,7 @@
 
 ##Communication
 
-Jammy are the Mods for this game. You may communicate with them by messaging their account (Jammy) on the mafia forums, sending them an email (jammy@mit.edu), or by communicating with them in private. Any method is acceptable, but please send all messages to this account/mailing list and not to us individually.
+Jakob and Sammy (Jammy) are the Mods for this game. You may communicate with them by messaging their account (Jammy) on the mafia forums, sending them an email (jammy@mit.edu), or by communicating with them in private. Any method is acceptable, but please send all messages to this account/mailing list and not to us individually.
 
 Communication with the Mods is sacred. Do not reveal anything about what the Mods communicate to you, except what you have learned through official game actions. 
 
@@ -75,11 +75,11 @@ Once per game, a vigilante may attempt to kill any player by tapping them on the
 
 ###Desperado
 
-Once per game, before the start of a day, the Desperado can tell the Mods that they are going Desperado (you can make the request conditional on day-end events, or cancel the request as long as it’s not too late). While going Desperado, they gain all of the abilities of an investigator. Additionally, if anyone tries to use “BANG” on a desperado who has “gone desperado”, they may respond by saying “I do not die” (You have 10 seconds to say this). After two days of going Desperado, the desperado dies (after the lynch, but before day start).
+Once per game, before the start of a day, the Desperado can tell the Mods that they are going Desperado (you can make the request conditional on day-end events, or cancel the request as long as it’s not too late). While going Desperado, they gain all of the abilities of an investigator. Additionally, if anyone tries to use “BANG” on a desperado who has “gone desperado”, they may respond by saying “I do not die” (You have 10 seconds to say this). After three days of going Desperado, the desperado dies (after the lynch, but before day start).
 
 ###Gay Knight
 
-At the start of game, each Gay Knight will know the identity of their partner, who is also a Gay Knight. If a Gay Knight dies, then their partner will die at the end of the following day (For example, if the mafia kill a Gay Knight at 6 PM Tuesday, their partner will die at 11 PM Wednesday). Twice per game, if a Gay Knight’s partner is dead, they may guess their partner’s killer (Note: They don’t gather clues and are immune to mafia powers that trick investigators). If they guess correctly, then they are allowed to attempt one kill on their partner’s killer by tapping them on the shoulder and saying “BANG.” Additionally, if a Gay Knight guesses correctly, they may respond to anyone who tries to use “BANG” on them by saying “I do not die” (You have 10 seconds to say this).
+At the start of game, each Gay Knight will know the identity of their partner, who is also a Gay Knight. If a Gay Knight dies, then their partner will die at the end of the following day (For example, if the mafia kill a Gay Knight at 6 PM Tuesday, their partner will die at 11 PM Wednesday). Twice per game, if a Gay Knight’s partner is dead, they may guess their partner’s killer (Note: They don’t gather clues and are immune to mafia powers that trick investigators). If they guess correctly, then they are allowed to kill their partner’s killer by tapping them on the shoulder and saying “KABOOM.” Additionally, if a Gay Knight guesses correctly, they may respond to anyone who tries to use “BANG” on them by saying “I do not die” (You have 10 seconds to say this).
 
 ###Innocent Child
 
@@ -117,7 +117,7 @@ A player with a shovel may use the shovel to find out all role information of an
 
 ###Microphone/Receiver: (2 pairs in game)
 
-Each Microphone is paired with a receiver. If the player with a microphone is killed with a “BANG”, the player with the corresponding receiver is told the identity of the mafia who killed them. If the player holding the microphone is killed by “KABOOM,” the player with the receiver will be informed only that a “KABOOM” was used. It is extra important that players tell the Mods when receivers are transferred between players, and when a player with a microphone is killed by “BANG,” be sure to include the fact that you had a mic on you in your death pm to the Mods.
+Each microphone is paired with a receiver. If the player with a microphone is killed with a “BANG,” the player with the corresponding receiver is told the identity of the player who killed them. If the player holding the microphone is killed by “KABOOM,” the player with the receiver will be informed only that a “KABOOM” was used. It is extra important that players tell the Mods when receivers are transferred between players, and when a player with a microphone is killed by “BANG,” be sure to include the fact that you had a mic on you in your death pm to the Mods.
 ###Taser: (4 in game)
 
 You may write a target’s name on a taser. Once written, it cannot be erased. 5 minutes after the target’s name has been written on a taser, anyone with the taser who has line-of-sight on the target may say “I TAZE <Name of target>”. A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
@@ -148,7 +148,9 @@ Each day, any mafia can attempt to kill someone by tapping them on the shoulder 
 
 ###KABOOM!: (2 uses)
 
-When you attempt to make a kill, you can use this power by saying “KABOOM” instead of “BANG.” All of the target’s items are destroyed (instead of the killer taking them). A target who is kaboomed dies, no matter what protection they may have. You cannot “KABOOM” someone whom the mafia have tried to kill earlier that day with “BANG.” Kaboom uses will regenerate if they are used on a target with some sort of protection that using a kaboom would circumvent (medkit, microphone, camera, or role powers).
+When you attempt to make a kill, you can use this power by saying “KABOOM” instead of “BANG.” All of the target’s items are destroyed (instead of the killer taking them). A target who is kaboomed dies, no matter what protection they may have. If you are mafia, you cannot “KABOOM” someone whom the mafia have tried to kill earlier that day with “BANG.” Kaboom uses will regenerate if they are used on a target with some sort of protection that using a kaboom would circumvent (medkit, microphone, camera, or role powers).
+
+**Note:** Kaboom regeneration after killing someone with a microphone only occurs if the corresponding receiver still exists and is in the hands of a town-aligned player. A similar rule applies for cameras.
 
 ###Scheme: (1 use)
 
