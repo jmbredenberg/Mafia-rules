@@ -68,6 +68,9 @@ The superhero has two forms: _Superhero Identity_ and _Secret Identity_. Before 
 
 Before the start of each day, the Conspiracy Theorist may designate up to 10% of the number of players (rounding up) for their conspiracy list. Mods will assume the list is unchanged unless told otherwise. If anyone on their conspiracy list attempts to use “BANG” on them, they may respond with “I do not die” (You have 10 seconds to say this).
 
+###Cynic
+
+Before the start of each day, the Cynic may designate up to 3 players for their cynic list. Mods will assume the list is unchanged unless told otherwise. If anyone on their cynic list dies while on the list, the Cynic becomes immune to "BANG" and "KABOOM" the next day.
 
 ###Vigilante
 
@@ -105,7 +108,7 @@ Whenever the police officer would use “BANG” on someone, they may always cho
 
 ##Items
 
-The Mods, in their countably infinite benevolence, have given some players items at the start of game. If someone who is lynched has an item, the Mods give it to a random player in game. The Mods always announce to whom they gives items. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. **If you give an item to anyone, you must tell the ****Mods****.**
+The Mods, being nice guys, have given some players items at the start of game. If someone who is lynched has an item, the Mods give it to a random player in game. The Mods always announce to whom they give items. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone, you must tell the ****Mods****.**
 
 ###Medkit: (4 in game)
 
@@ -161,13 +164,13 @@ A mafia who has not made any kills yet on a day can use this power to make an ex
 The mafia may use this power to poison a player. At the start of the next day the victim is informed that they have been poisoned. The victim dies forty-eight hours later (after the lynch). 
 
 
-###Set a Trap: (2 charges)
+###Set a Trap: (6 charges)
 
-The mafia start the game with 2 set a trap charges. Once per day, the mafia can use a set a trap charge on someone by pm-ing the Mods with a guess about that person’s role. If their guess is correct, then kills on that person by the mafia no longer uses up the daily kill. If the target of a successful guess dies for any reason, the mafia gain a set a trap charge back. If the guess is incorrect the charge is lost.
+The mafia start the game with 6 set a trap charges. Once per day, if fewer than two charges are active, the mafia can use a set a trap charge on someone by pm-ing the Mods with a guess about that person’s role. If their guess is incorrect, the charge is used up. If their guess is correct, an active charge is stored on the target, and a kill on that person by the mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the trap charge on that person disappears.
 
 ###Slaughter the Weak: (2 charges)
 
-This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children.
+This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children, and instead of disappearing, charges are regenerated when their targets die for any reason.
 
 ###Frame a Townsperson: (1 uses)
 
