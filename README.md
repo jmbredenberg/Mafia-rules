@@ -4,7 +4,7 @@
 
 Jakob and Sammy (Jammy) are the Mods for this game. You may communicate with them by messaging their account (Jammy) on the mafia forums, sending them an email (jammy@mit.edu), or by communicating with them in private. Any method is acceptable, but please send all messages to this account/mailing list and not to us individually.
 
-Communication with the Mods is sacred. Do not reveal anything about what the Mods communicate to you, except what you have learned through official game actions. 
+Communication with the Mods is confidential. Do not reveal anything about what the Mods communicate to you, except what you have learned through official game actions. 
 
 The forums at mafia.mit.edu have three sub-forums for this game. The Town Square is for all living players to communicate in. The Mafia Den is for the living mafia and anyone they choose to add. The Graveyard is for the dead players.
 
@@ -29,9 +29,9 @@ Each day, each player may cast a vote for a player to lynch. You may vote for No
 
 ##Alibis
 
-Non-players are allowed to say whatever they want. They can lie, tell the truth, or choose not to talk about it.
+Non-players are not constrained on what they say. They can lie, tell the truth, or choose not to talk about it. However, players should not actively ask non-players to communicate information about what they witness. Telling a non-player to report who killed you counts as a deadman switch, and is not allowed. Likewise, non-players are discouraged from volunteering information to players without being specifically asked. Players can, nevertheless, take the initiative to ask non-players whether they have any information on what happened.
 
-Information created electronically may never be shown to any other player, and other players should never try to look at it. **Never look at another players’ screen. Do not show messages of any kind (although you can paraphrase). Most importantly, players should never see other players’ forum screens.** It is the responsibility of all players to make sure this does not happen.
+Information created electronically may never be shown to any other player, and other players should never try to look at it. **Never look at another player’s screen. Do not show messages of any kind (although you can paraphrase). Most importantly, players should never see other players’ forum screens.** It is the responsibility of all players to make sure this does not happen.
 
 ##Faking Game Actions
 
@@ -98,7 +98,6 @@ Players may make petitions to elect a player to an office, or to impeach a playe
 The mayor’s vote counts as three votes.
 Twice per game, the mayor may ask the Mods how many mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the mafia during their regime.
 Once per day, they may make a single investigation by asking the Mods “Did X kill Y?” They do not need to collect clues.
-Every time a mafia is mayor, they become **Don** (see mafia section below)
 
 ###Police Officer
 
@@ -196,13 +195,9 @@ Once per game, the mafia may conscript a player by tapping them on the shoulder 
 
 If a player says “BANG” to a mafia, they may say “Disarm.” (They have 10 seconds to say this). If they do, then they ask the attempted killer if they are a serial killer. If the attempted killer was a serial killer, then the mafia survives. If they were not a serial killer, then the mafia still dies.
 
-###Don: (Anytime a mafia is mayor)
+###Don:
 
-Whenever a mafia (not serial killers) is elected mayor, they automatically become the Don. When the Don makes a kill, the victim’s microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far in game. If two consecutive mafia kills are made by the Don, then the Don loses their powers (though if they are impeached then reelected, they become Don again). 
-
-When a mafia is no longer Don, they come up guilty for any kills they made in the past, as normal, (including those they made while they were Don).
-
-When a mafia becomes Don, they come up negative for any kills they made in the past (including those they made before they were Don).
+Once per game, the mafia can designate one mafia (not a rogue) to be the Don. The Don does not have to be someone who started the game as mafia. When the Don makes a kill, the victim’s microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far in game. If two consecutive mafia kills are made by the Don, then the Don loses their powers (though if they are impeached then reelected, they become Don again). If two of three consecutive mafia kills are made by the Don, then the mafia loses the Don powers permanently. However, they still come up negative on all kills they made before they lost their Don powers.
 
 ###Mafia restrictions:
 
