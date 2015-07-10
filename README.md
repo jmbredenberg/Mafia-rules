@@ -231,3 +231,5 @@ If the serial killer tries to kill someone and fails, they cannot try to kill th
 ##Credits:
 
 Game concept by Alex Arkhipov, with help from Stephanie Schmit. Rules document modified from Kevin Mustelier and Ellena Popova. Webapp made by Jakob Weisblat with help from Sammy Luo. Special thanks to Peter Iannucci for making the forum work, and David Benjamin for setting up the new web address. Thanks to everyone who commented and gave feedback on the game!
+
+This document is version-controlled on [github](https://github.com/jake223/Mafia-rules)
