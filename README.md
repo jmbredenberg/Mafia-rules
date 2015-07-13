@@ -48,7 +48,7 @@ Information created electronically may never be shown to any other player, and o
 ##Town Roles:
 
 ###Investigator
-Whenever a kill is made, a number of clues spawn equal to 1+[number of serial killers]. Investigators may visit a kill location to study all clues at that kill location. On each visit to the murder location, the Mods will inform them how many clues they find. Note that Serial Killers can destroy evidence (see serial killer section below).
+Whenever a kill is made, a number of clues spawn equal to 2. Investigators may visit a kill location to study all clues at that kill location. On each visit to the murder location, the Mods will inform them how many clues they find. Note that Serial Killers can destroy evidence (see serial killer section below).
 
 Once per day, an investigator may ask the Mods a question of the form “Did X kill Y?” A single investigator can only make as many total investigations of a player’s death as they found clues at that player’s murder location upon the first visit.
 
@@ -109,22 +109,22 @@ Whenever the police officer would use “BANG” on someone, they may always cho
 
 The Mods, being nice guys, have given some players items at the start of game. If someone who is lynched has an item, the Mods give it to a random player in game. The Mods always announce to whom they give items. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone, you must tell the ****Mods****.**
 
-###Medkit: (4 in game)
+###Medkit: (1 in game)
 
 A player with the Medkit may tell the Mods that they are activating the Medkit. Once they do, the Medkit is destroyed. The Medkit is active as soon as the message is sent until the day ends, the person who used the Medkit may respond to any “BANG” attempts by saying “I do not die.” 
 
-###Shovel: (4 in game)
+###Shovel: (1 in game)
 
 A player with a shovel may use the shovel to find out all role information of any dead player, including whether or not they were conscripted. Once used, a shovel is destroyed.
 
-###Microphone/Receiver: (2 pairs in game)
+###Microphone/Receiver: (1 pair in game)
 
 Each microphone is paired with a receiver. If the player with a microphone is killed with a “BANG,” the player with the corresponding receiver is told the identity of the player who killed them. If the player holding the microphone is killed by “KABOOM,” the player with the receiver will be informed only that a “KABOOM” was used. It is extra important that players tell the Mods when receivers are transferred between players, and when a player with a microphone is killed by “BANG,” be sure to include the fact that you had a mic on you in your death pm to the Mods.
 ###Taser: (4 in game)
 
 You may write a target’s name on a taser. Once written, it cannot be erased. 5 minutes after the target’s name has been written on a taser, anyone with the taser who has line-of-sight on the target may say “I TAZE <Name of target>”. A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
-###Camera/CCTV: (1 pair in game)
+###Camera/CCTV: (2 pairs in game)
 
 The camera is paired with a CCTV receiver. The player with the camera may place it in a Mods-approved location. Once the camera is placed, it cannot be moved or removed by anyone. The holder of the CCTV is informed where the camera was placed. If a kill happens in that location, the holder of the CCTV will see who the killer was, unless a “KABOOM” was used, in which case they will be informed that the TV screen has gone blank. Before it is placed, the camera can be traded or destroyed as any other item. 
 
@@ -132,7 +132,7 @@ _Acceptable locations_ are things like: Lobby 7 (which sees anything in the lobb
 
 _Unacceptable locations_ are things like: The entire infinite (too large. I’d split it into 3rds), Mass ave, Outside East Campus (too vague - something like a 4’ by 4’ box outside the Goodale entrance of EC would be fine, though).
 
-##Mafia: (4 mafia in game)
+##Mafia: (2 mafia in game)
 
 The following powers are all usable by mafia, and can be used in combination with each other.
 
@@ -148,46 +148,46 @@ Mafia typically needs to find someone in person and touch them in order to kill 
 
 Each day, any mafia can attempt to kill someone by tapping them on the shoulder and saying “BANG.”  This power is shared between all mafia, but it is not used up if the target doesn’t die. 
 
-###KABOOM!: (2 uses)
+###KABOOM!: (? uses)
 
 When you attempt to make a kill, you can use this power by saying “KABOOM” instead of “BANG.” All of the target’s items are destroyed (instead of the killer taking them). A target who is kaboomed dies, no matter what protection they may have. If you are mafia, you cannot “KABOOM” someone whom the mafia have tried to kill earlier that day with “BANG.” Kaboom uses will regenerate if they are used on a target with some sort of protection that using a kaboom would circumvent (medkit, microphone, camera, or role powers).
 
 **Note:** Kaboom regeneration after killing someone with a microphone only occurs if the corresponding receiver still exists and is in the hands of a town-aligned player. A similar rule applies for cameras.
 
-###Scheme: (1 use)
+###Scheme: (? use)
 
 A mafia who has not made any kills yet on a day can use this power to make an extra kill. If all mafia have made a kill on a day, then any mafia can use this power to make a kill.
 
-###Poison: (2 uses)
+###Poison: (? uses)
 
 The mafia may use this power to poison a player. At the start of the next day the victim is informed that they have been poisoned. The victim dies forty-eight hours later (after the lynch). 
 
 
-###Set a Trap: (6 charges)
+###Set a Trap: (? charges)
 
 The mafia start the game with 6 set a trap charges. Once per day, if fewer than two charges are active, the mafia can use a set a trap charge on someone by pm-ing the Mods with a guess about that person’s role. If their guess is incorrect, the charge is used up. If their guess is correct, an active charge is stored on the target, and a kill on that person by the mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the trap charge on that person disappears.
 
-###Slaughter the Weak: (2 charges)
+###Slaughter the Weak: (? charges)
 
 This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children, and instead of disappearing, charges are regenerated when their targets die for any reason.
 
-###Frame a Townsperson: (1 uses)
+###Frame a Townsperson: (? uses)
 
 Choose a player X and a player Y. From now on, all investigations asking “Did player X kill player Y?” will return an answer of yes. Note that if W killed Y, an investigation of “Did W kill Y?” will also return an answer of yes.
 
-###Plant Evidence: (1 uses)
+###Plant Evidence: (? uses)
 
 Choose a player X, and a role and alignment. From now on, all attempts to shovel player X will return the falsified role and alignment.
 
-###Manipulate the Press: (1 use)
+###Manipulate the Press: (? use)
 
 You may use this on any previous murder the mafia have committed to set the number of clues at the murder site to zero. The mafia can also set the location where the kill is announced to have happened.
 
-###Hire a Hitman: (1 use)
+###Hire a Hitman: (? use)
 
 Before the start of the day, the mafia may designate a non-player as a hitman on a designated target. For that day, the hitman may attempt a kill on that player. This does not use up the mafia’s daily kill. 
 
-###Conscript: (1 use)
+###Conscript: (? use)
 
 Once per game, the mafia may conscript a player by tapping them on the shoulder and saying “I’m gonna make you an offer you can’t refuse.” The conscript’s goal is now for the mafia to win. The conscript retains any abilities they had before they were conscripted. The conscript can use mafia powers as if they were a member of the mafia. You MAY conscript someone after a failed kill attempt. 
 
@@ -201,16 +201,16 @@ Once per game, the mafia can designate one mafia (not a rogue) to be the Don. Th
 
 ###Mafia restrictions:
 
-If 3 cumulative days or 2 consecutive days pass by where the mafia don’t make any kills, the town will have one confirmed innocent publicly revealed to them by the Mods. If more than 3 cumulative days or more than 2 consecutive days pass without mafia kills, town automatically wins.
+If 2 cumulative days pass by where the mafia don’t make any kills, the town will have one confirmed innocent publicly revealed to them by the Mods. If more than 3 cumulative days or more than 2 consecutive days pass without mafia kills, town automatically wins.
 
 If the mafia try to kill someone and fail, no mafia can try to kill the same person again on the same day (this is separate from the serial killer’s restriction). 
 
 
-##Serial Killer: (2 serial killers in game)
+##Serial Killer: (0 serial killers in game)
 
 The serial killers want the mafia to win. Unfortunately, they don’t know who the mafia are. The serial killer may attempt to kill any player by tapping them on the shoulder and saying “BANG”. If the kill succeeds, or if the serial killer was disarmed, then they can’t make another kill until three days later (for example, an attempted kill at 11 am on a Thursday means you cannot make a kill again until after day end on Saturday). The same serial killer may not try to kill the same person twice on the same day.
 
-###Kaboom (1 use):
+###Kaboom (1cl use):
 
 When you make a kill, you can use this power by saying “KABOOM” instead of “BANG.” All of the target’s items are destroyed (instead of the killer taking them). A target who is kaboomed dies, no matter what protection they may have. You cannot “KABOOM” someone whom you have tried to kill earlier that day with “BANG.” Kaboom uses will regenerate if they are used on a target with some sort of protection that using a kaboom would circumvent (medkit, microphone, camera, or role powers). 
 
