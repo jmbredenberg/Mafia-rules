@@ -201,7 +201,7 @@ Once per game, the mafia can designate one mafia (not a rogue) to be the Don. Th
 
 ###Mafia restrictions:
 
-If 2 cumulative days pass by where the mafia don't make any kills, the town will have one confirmed innocent publicly revealed to them by the Mods. If more than 3 cumulative days or more than 2 consecutive days pass without mafia kills, town automatically wins.
+If 2 cumulative days pass by where the mafia don't make any kills, town automatically wins.
 
 If the mafia try to kill someone and fail, no mafia can try to kill the same person again on the same day (this is separate from the serial killer's restriction). 
 
