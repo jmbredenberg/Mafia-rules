@@ -197,7 +197,7 @@ If a player says "BANG" to a mafia, they may say "Disarm." (They have 10 seconds
 
 ###Don:
 
-Once per game, the mafia can designate one mafia (not a rogue) to be the Don. The Don does not have to be someone who started the game as mafia. When the Don makes a kill, the victim's microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far in game. If two of three consecutive mafia kills are made by the Don, then the mafia loses the Don powers permanently. However, they still come up negative on all kills they made before they lost their Don powers.
+Once per game, the mafia can designate one mafia (not a rogue) to be the Don. The Don does not have to be someone who started the game as mafia. When the Don makes a kill, the victim's microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far while being Don. If two of three consecutive mafia kills are made by the Don (while they are Don), then the mafia loses the Don powers permanently. However, they still come up negative on all kills they made as Don before they lost their Don powers.
 
 ###Mafia restrictions:
 
