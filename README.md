@@ -74,7 +74,7 @@ Before the start of each day, the Cynic may designate up to 15% of the number of
 
 ###Vigilante
 
-Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the person died and was mafia (including conscript) or serial killer, then the vigilante gains this ability back, but cannot use it again until the following day. If the person does not die for any reason, they do NOT get their power back. They are town aligned, and their goal is for the town to win. 
+Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the person died and was mafia (including conscript) or serial killer, or if the person does not die for any reason, then the vigilante gains this ability back, but cannot use it again until the following day. Vigilantes are town aligned, and their goal is for the town to win. 
 
 ###Desperado
 
