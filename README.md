@@ -2,7 +2,7 @@
 
 ##Communication
 
-Jakob and Sammy (Jammy) are the Mods for this game. You may communicate with them by messaging their account (Jammy) on the mafia forums, sending them an email (jammy@mit.edu), or by communicating with them in private. Any method is acceptable, but please send all messages to this account/mailing list and not to us individually.
+You may communicate with moderators by messaging their account on the mafia forums, sending them an email, or by communicating with them in private. Any method is acceptable, but please send all messages to their joint account/mailing list and not to them individually.
 
 Communication with the Mods is confidential. Do not reveal anything about what the Mods communicate to you, except what you have learned through official game actions. 
 
@@ -74,7 +74,7 @@ Before the start of each day, the Cynic may designate up to 15% of the number of
 
 ###Vigilante
 
-Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the person died and was mafia (including conscript) or serial killer, or if the person does not die for any reason, then the vigilante gains this ability back, but cannot use it again until the following day. Vigilantes are town aligned, and their goal is for the town to win. 
+Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG" at least ten seconds after deciding to do so. If the person died and was mafia (including conscript) or serial killer, or if the person does not die for any reason, then the vigilante gains this ability back, but cannot use it again until the following day. Vigilantes are town aligned, and their goal is for the town to win. 
 
 ###Desperado
 
