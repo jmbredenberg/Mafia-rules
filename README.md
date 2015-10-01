@@ -60,9 +60,9 @@ The superhero has two forms: _Superhero Identity_ and _Secret Identity_. Before 
 
 **Investigations:** While in _Secret Identity_, the superhero may visit murder sites and study clues, as if they were an investigator. While in _Superhero Identity_, they may make investigations as if they were an investigator.
 
-**Immunity:** Every time the superhero chooses to be in their _Superhero Identity_, they can also choose one person to add to their paranoia list. If, on the day that they are in _Superhero Identity_, that person dies, their paranoia activates for the following day. Then, if they are in their _Secret Identity_ the day their paranoia is active, they can respond to all attempts to use "BANG" with "I do not die." Paranoia has no effect on the _Superhero Identity_. 
+**Immunity:** Every time the superhero chooses to be in their _Superhero Identity_, they can also choose one person to be paranoid about. If, on the day that they are in _Superhero Identity_, that person dies, their paranoia activates for the following day. Then, if they are in their _Secret Identity_ the day their paranoia is active, they can respond to all attempts to use "BANG" with "I do not die." Paranoia has no effect on the _Superhero Identity_. 
 
-(ex of immunity: sammyluo, the superhero, PMs the Mods on day 1 that he wants to be in his _Superhero Identity_ day 2, with jakob on his paranoia list. Sometime during day 2, jakob happens to be killed, and sammyluo PMs the mods that he would like to be in his _Secret identity_ the following day. Day 3 comes, and the mafia that killed jakob tries to “BANG” sammyluo, too, but since his paranoia is active, he responds with “I do not die” and outs the silly rascal.)
+(ex of immunity: sammyluo, the superhero, PMs the Mods on day 1 that he wants to be in his _Superhero Identity_ day 2, with jakob as his paranoia target. Sometime during day 2, jakob happens to be killed, and sammyluo PMs the mods that he would like to be in his _Secret identity_ the following day. Day 3 comes, and the mafia that killed jakob tries to “BANG” sammyluo, too, but since his paranoia is active, he responds with “I do not die” and outs the silly rascal.)
 
 ###Conspiracy Theorist
 
