@@ -180,7 +180,7 @@ The mafia start the game with 2 set a traps. Once per day, the mafia can set a t
 
 This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children.
 
-###Frame a Townsperson: (2 uses)
+###Frame a Townsperson: (1 use)
 
 Choose a player X and a player Y. From now on, all investigations asking "Did player X kill player Y?" will return an answer of yes. Note that if W killed Y, an investigation of "Did W kill Y?" will also return an answer of yes.
 
