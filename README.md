@@ -2,7 +2,7 @@
 
 ##Current Moderators
 
-You can reach the mods for this game through the forum account Lucina, or at lucina@mit.edu. This is Lucy Gutierrez and Pravina Samaratunga. Contrary to popular belief, we are not actually one person.
+The mods for this game are Ian Clester and Isaac Grosof. You can reach the mods for this game through the forum account ijaacg or iap-2016-mafia-gms@mit.edu.
 
 ##Communication
 
@@ -125,11 +125,11 @@ A player with the Medkit may tell the Mods that they are activating the Medkit. 
 
 A player with a shovel may use the shovel to find out all role information of any dead player, including whether or not they were conscripted. Once used, a shovel is destroyed.
 
-###Microphone/Receiver: (5 pair in game)
+###Microphone/Receiver: (3 pairs in game)
 
 Each microphone is paired with a receiver. If the player with a microphone is killed with a "BANG," the player with the corresponding receiver is told the identity of the player who killed them. If the player holding the microphone is killed by "KABOOM," the player with the receiver will not be informed that anything happened. It is extra important that players tell the Mods when receivers are transferred between players, and when a player with a microphone is killed by "BANG," be sure to include the fact that you had a mic on you in your death pm to the Mods.
 
-###Taser: (4 in game)
+###Taser: (2 in game)
 
 You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE <Name of target>". A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
@@ -141,7 +141,7 @@ _Acceptable locations_ are things like: Lobby 7 (which sees anything in the lobb
 
 _Unacceptable locations_ are things like: The entire infinite (too large. I'd split it into 3rds), Mass ave, Outside East Campus (too vague - something like a 4' by 4' box outside the Goodale entrance of EC would be fine, though).
 
-##Mafia: (5 mafia in game)
+##Mafia: (2 mafia in game)
 
 The following powers are all usable by mafia, and can be used in combination with each other.
 
@@ -157,7 +157,7 @@ Mafia typically needs to find someone in person and touch them in order to kill 
 
 Each day, any mafia can attempt to kill someone by tapping them on the shoulder and saying "BANG."  This power is shared between all mafia, but it is not used up if the target doesn't die. 
 
-###KABOOM!: (3 uses)
+###KABOOM!: (2 uses)
 
 When you attempt to make a kill, you can use this power by saying "KABOOM" instead of "BANG." All of the target's items are destroyed (instead of the killer taking them). A target who is kaboomed dies, no matter what protection they may have. If you are mafia, you cannot "KABOOM" someone whom the mafia have tried to kill earlier that day with "BANG." Kaboom uses will regenerate if they are used on a target with some sort of protection that using a kaboom would circumvent (medkit, microphone, camera, or role powers).
 
@@ -176,7 +176,7 @@ The mafia may use this power to poison a player. At the start of the next day th
 
 The mafia start the game with 2 set a traps. Once per day, the mafia can set a trap on someone by pm-ing the Mods with a guess about that person's role. If their guess is incorrect, the trap is destroyed. If their guess is correct, an active charge is stored on the target, and a kill on that person by the mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the trap charge on that person regenerates.
 
-###Slaughter the Weak: (2 charges)
+###Slaughter the Weak: (1 charge)
 
 This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children.
 
@@ -194,7 +194,7 @@ You may use this on any previous murder the mafia have committed to convert all 
 
 ###Hire a Hitman: (1 use)
 
-Before the start of the day, the mafia may designate a non-player as a hitman. For that day, the hitman may attempt a kill. This does not use up the mafia's daily kill. 
+Before the start of the day, the mafia may designate a non-player as a hitman. For that day, the hitman may attempt a kill. This uses up the mafia's daily kill. 
 
 ###Conscript: (1 use)
 
@@ -215,7 +215,7 @@ If 2 consecutive days or 3 cumulative days pass by where any mafia aligned playe
 If the mafia try to kill someone and fail, no mafia can try to kill the same person again on the same day (this is separate from the serial killer's restriction). 
 
 
-##Serial Killer: (2 serial killers in game)
+##Serial Killer: (1 serial killer in game)
 
 The serial killers want the mafia to win. Unfortunately, they don't know who the mafia are. The serial killer may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the kill succeeds, or if the serial killer was disarmed, then they can't make another kill until three days later (for example, an attempted kill at 11 am on a Thursday means you cannot make a kill again until after day end on Saturday). The same serial killer may not try to kill the same person twice on the same day.
 
