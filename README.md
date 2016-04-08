@@ -121,7 +121,7 @@ The mayor's vote counts as three votes.
 
 Twice per game, the mayor may ask the Mods how many mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the mafia during their regime.
 
-Once per day, they may make a single investigation by asking the Mods "Did X kill Y?" They do not need to collect clues.
+Once per day, they may make a single investigation by asking the Mods "Did X kill Y?"
 
 ###Police Officer
 
@@ -189,7 +189,9 @@ Choose a player X, and a role and alignment. From now on, all attempts to shovel
 
 ###Manipulate the Press: (1 use)
 
-You may use this on any previous murder the mafia have committed to cause all investigations to return negative. The mafia can also set the location where the kill is announced to have happened. This ability will not affect Gay Knight investigations, though a Gay Knight will not know the true kill location. Frame may be used on top of this ability to make investigations on a different person return positive. When you use this ability, notify both the moderators and the victim immediately, so that the location will be posted as desired.
+You may use this on any previous murder the mafia have committed to cause all investigations to return negative. The mafia can also set the location where the kill is announced to have happened. **When you use this ability, notify both the moderators and the victim immediately, so that the location will be posted as desired.**
+
+This ability will not affect Gay Knight investigations, though a Gay Knight will not know the true kill location. It will work on all other investigative roles including police officers and mayors. Frame may be used on top of this ability to make investigations on a different person return positive. 
 
 ###Hire a Hitman: (1 use)
 
