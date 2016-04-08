@@ -61,7 +61,7 @@ Information created electronically may never be shown to any other player, and o
 **Do not fake incants. We also ask non-players not to fake game incants.** You are not allowed to not use an incant and make it look like you did (although using an incant and making it look like you didn't is, of course, acceptable). As a reminder, the incants not to fake are:
 
  - "BANG!"
- - "I TAZE (Name)."
+ - "I taze you."
  - "I do not die."
  - "Disarm."
  - "I am an innocent child and I trust you."
