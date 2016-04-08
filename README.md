@@ -2,7 +2,7 @@
 
 ##Current Moderators
 
-The mods for this game are Ian Clester and Isaac Grosof. You can reach the mods for this game through the forum account ijaacg or iap-2016-mafia-gms@mit.edu.
+The mods for this game are Jackie Bredenberg, Luke Sciarappa, and Dylan Hendrickson. You can reach the mods for this game through the forum account lambhen or by emailing lambhen@mit.edu.
 
 ##Communication
 
@@ -14,6 +14,8 @@ The forums at mafia.mit.edu have three sub-forums for this game. The Town Square
 
 Cryptography, anonymous communication, and dead-man switches are not allowed. Public randomness (a coin flip or die roll that everyone can see) is also forbidden. Private randomness ("hey guys, I totally chose this at random") is allowed.
 
+Special request from the moderators: please cc: them on your sketchy private messages. They enjoy reading about your plots (and possibly discussing them on Graveyard). In fact, you should do this even if your private messages aren't sketchy.
+
 ##Evictions
 
 Periodically, the moderators may notify noticeably inactive players about their lack of activity. If such a player does not respond to that notification within 24 hours, they may be removed from the game at the end of the day. Such a death will be indistinguishable from other end-of-day kills other than executions.
@@ -24,11 +26,11 @@ The Town wins if all mafia are dead. The mafia wins if all townies are dead. If 
 
 ##Kills
 
-Some players can kill another player by tapping them on the shoulder and saying "BANG" or "KABOOM." If this happens to you, you are dead, unless you know otherwise. **Dead players tell no tales. They do not communicate, give general advice to, or make facial expressions towards living players or non-players.** If you died to a "BANG", all of your items now belong to the person who killed you. Try to get the physical representations to them. Also, please let the Mods know who killed you, where, and when. If you killed someone, also please let the Mods know who, where, and when, as well as reporting them on the webapp.
+Some players can kill another player by tapping them on the shoulder and saying "BANG." If this happens to you, you are dead, unless you know otherwise. **Dead players tell no tales. They do not communicate, give general advice to, or make facial expressions towards living players or non-players.** If you died, all of your items now belong to the person who killed you. Try to get the physical representations to them. Also, please let the Mods know who killed you, where, and when. If you killed someone, also please let the Mods know who, where, and when.
 
 If you are dead, and someone tries to talk to you about game, you must respond with "I can't talk about that." All players (including ghosts) must respond truthfully to inquiries about whether they are alive.
 
-Kills will be announced officially on the forums. If a kill announcement happens within an hour of day end, game will be extended until an hour after the announcement.
+Kills will be announced officially on the forums. If a kill announcement happens within an hour of day end, game will be extended until an hour after the announcement. **If the moderators do not post your death within half an hour, you may post it.** Message the moderators again to say that you are about to do so. Start a new post including your name, time of death, and location of death. Make sure you check your messages to see if the Mafia have used any manipulation abilities on your death.
 
 
 ##Executions
@@ -46,9 +48,8 @@ Information created electronically may never be shown to any other player, and o
 **Do not fake incants. We also ask non-players not to fake game incants. **You are not allowed to not use an incant and make it look like you did (although using an incant and making it look like you didn't is, of course, acceptable). As a reminder, the incants not to fake are:
 
  - "BANG"
- - "KABOOM"
  - "I TAZE <Name>"
- - "I do not die"
+ - "I do not die."
  - "Disarm"
  - "I am an innocent child and I trust you."
  - "I'm gonna make you an offer you can't refuse."
@@ -117,29 +118,21 @@ Whenever the police officer would use "BANG" on someone, they may always choose 
 
 The Mods, being nice guys, have given some players items at the start of game. If someone who is executed has an item, the Mods give it to a random player in game. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone, you must tell the ****Mods****.**
 
-###Medkit: (2 in game)
-
-A player with the Medkit may tell the Mods that they are activating the Medkit. Once they do, the Medkit is destroyed. The Medkit is active as soon as the message is sent until the day ends, the person who used the Medkit may respond to any "BANG" attempts by saying "I do not die." 
 
 ###Shovel: (3 in game)
 
 A player with a shovel may use the shovel to find out all role information of any dead player, including whether or not they were conscripted. Once used, a shovel is destroyed.
 
-###Microphone/Receiver: (3 pairs in game)
-
-Each microphone is paired with a receiver. If the player with a microphone is killed with a "BANG," the player with the corresponding receiver is told the identity of the player who killed them. If the player holding the microphone is killed by "KABOOM," the player with the receiver will not be informed that anything happened. It is extra important that players tell the Mods when receivers are transferred between players, and when a player with a microphone is killed by "BANG," be sure to include the fact that you had a mic on you in your death pm to the Mods.
 
 ###Taser: (2 in game)
 
 You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE <Name of target>". A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
-###Camera/CCTV: (0 pairs in game)
+###Fake ID: (2 in game)
 
-The camera is paired with a CCTV receiver. The player with the camera may place it in a Mods-approved location. Once the camera is placed, it cannot be moved or removed by anyone. The holder of the CCTV is informed where the camera was placed. If a kill happens in that location, the holder of the CCTV will see who the killer was, unless a "KABOOM" was used, in which case they will be informed that the TV screen has gone blank. Before it is placed, the camera can be traded or destroyed as any other item. 
+You may choose to use this item on any night. Once used, the item is destroyed and you cannot use it again. On the night when you use the fake ID, your vote counts +1.
 
-_Acceptable locations_ are things like: Lobby 7 (which sees anything in the lobby, but nothing in the infinite, right outside the doors, or in buildings 5 and 9) or a specific room or lounge. We'll define limits of exactly what the camera will see with you, these are just examples.
 
-_Unacceptable locations_ are things like: The entire infinite (too large. I'd split it into 3rds), Mass ave, Outside East Campus (too vague - something like a 4' by 4' box outside the Goodale entrance of EC would be fine, though).
 
 ##Mafia: (2 mafia in game)
 
@@ -218,10 +211,6 @@ If the mafia try to kill someone and fail, no mafia can try to kill the same per
 ##Serial Killer: (1 serial killer in game)
 
 The serial killers want the mafia to win. Unfortunately, they don't know who the mafia are. The serial killer may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the kill succeeds, or if the serial killer was disarmed, then they can't make another kill until three days later (for example, an attempted kill at 11 am on a Thursday means you cannot make a kill again until after day end on Saturday). The same serial killer may not try to kill the same person twice on the same day.
-
-###Destroy Evidence: (Once per kill scene per serial killer)
-
-Each serial killer can visit each murder scene once, and destroy one of the clues located there. All investigators that visit the scene will find one fewer clue there. Each serial killer can check once per hour how many clues remain at a murder scene.
 
 The mafia are allowed to give anyone they want mafia den access.
 
