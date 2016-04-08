@@ -71,6 +71,12 @@ Information created electronically may never be shown to any other player, and o
 
 ##Town Roles:
 
+###Investigator
+
+Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
+
+**An investigator cannot investigate the death of a player unless they have visited the kill scene (and have informed Mods that they did so).** Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
+
 ###Desperado
 
 Once per game, before the start of a day, the Desperado can tell the Mods that they are going Desperado (you can make the request conditional on day-end events, or cancel the request as long as it's not too late). While going Desperado, they gain all of the abilities of an investigator. Additionally, if anyone tries to use "BANG" on a desperado who has "gone desperado", they may respond by saying "I do not die" (You have 10 seconds to say this). After two days of going Desperado, the desperado dies (after the execution, but before day start).
@@ -79,21 +85,15 @@ Once per game, before the start of a day, the Desperado can tell the Mods that t
 
 At the start of game, each Gay Knight will know the identity of their partner, who is also a Gay Knight. If a Gay Knight dies, then their partner will die at the end of the following day (For example, if the mafia kill a Gay Knight at 6 PM Tuesday, their partner will die at 11 PM Wednesday). Twice per game, if a Gay Knight's partner is dead, they may guess their partner's killer (Note: They are immune to mafia powers that trick investigators). If they guess correctly, then they are allowed to kill their partner's killer by tapping them on the shoulder and saying "BANG." Additionally, if a Gay Knight guesses correctly, they may respond to anyone who tries to kill them by saying "I do not die" (You have 10 seconds to say this). Role distributions will be weighted very slightly toward an increased number of gay knights.
 
-###Innocent Child
-
-The innocent child is allowed to use the phrase "I am an Innocent child and I trust you" in person only. No one else is allowed to use this phrase. The mafia have an ability that allows them to kill innocent children more easily.
-
-###Investigator
-
-Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
-
-**An investigator cannot investigate the death of a player unless they have visited the kill scene (and have informed Mods that they did so).** Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
-
 ###Group Investigator
 
 The group investigator acts the same as a regular investigator, but their investigations ask about whether a set of n people killed X. If any of those n people would have returned positive for killing X in a regular investigation, the group investigator is told "Yes, someone in that set killed X." Otherwise they are told No.
 
 The group investigator cannot make investigations two days in a row. If their most recent investigation was m days ago, they can ask about any set of size at most 1+2+...+m. For example, if a group investigator made an investigation on day 3, then they cannot make an investigation on day 4. They can ask about a set of at most 3 people on day 5, or can ask about a set of at most 6 people on day 6, or 10 people on day 7, or so on until they make an investigation, at which point their set size resets to 0.
+
+###Innocent Child
+
+The innocent child is allowed to use the phrase "I am an Innocent child and I trust you" in person only. No one else is allowed to use this phrase. The mafia have an ability that allows them to kill innocent children more easily.
 
 ###Priest
 
