@@ -4,6 +4,8 @@
 
 The mods for this game are Jackie Bredenberg, Luke Sciarappa, and Dylan Hendrickson. You can reach the mods for this game through the forum account lambhen or by emailing lambhen@mit.edu.
 
+
+
 ##Communication
 
 You may communicate with moderators by messaging their account on the mafia forums, sending them an email, or by communicating with them in private. Any method is acceptable, but please send all messages to their joint account/mailing list and not to them individually.
@@ -16,13 +18,19 @@ Cryptography, anonymous communication, and dead-man switches are not allowed. Pu
 
 Special request from the moderators: please cc: them on your sketchy private messages. They enjoy reading about your plots (and possibly discussing them on Graveyard). In fact, you should do this even if your private messages aren't sketchy.
 
+
+
 ##Evictions
 
 Periodically, the moderators may notify noticeably inactive players about their lack of activity. If such a player does not respond to that notification within 24 hours, they may be removed from the game at the end of the day. Such a death will be indistinguishable from other end-of-day kills other than executions.
 
+
+
 ##Goals
 
 The Town wins if all mafia are dead and at least one townie is alive. The mafia wins if all townies are dead. Game ends immediately when either condition is satisfied. If you are currently a townie, your goal is for the town to win. If you are a mafia, your goal is for the mafia to win. If you are a serial killer, your goal is for the mafia to win. Everyone is 100% loyal to their current team, even if they expect to switch teams. **You win with your team; your personal survival does not matter. **
+
+
 
 ##Kills
 
@@ -33,15 +41,20 @@ If you are dead, and someone tries to talk to you about game, you must respond w
 Kills will be announced officially on the forums. If a kill announcement happens within an hour of day end, game will be extended until an hour after the announcement. **If the moderators do not post your death within half an hour, you may post it.** Message the moderators again to say that you are about to do so. Start a new post including your name, time of death, and location of death. Make sure you check your messages to see if the Mafia have used any manipulation abilities on your death.
 
 
+
 ##Executions
 
 Each day, each player may cast a vote for a player to execute. **You may vote for No Execution on the first night only; after that you must vote for a player.** You may make conditional votes (ex: Vote for player X unless there's another kill, otherwise vote for player Y). Mods will count only your latest submission (ex: you voted for sammyluo at 9:07pm, but then voted again for jakob at 9:09pm, you will be counted as voting to execute jakob). **If a player does not vote, they will be counted as voting for themselves.** At Day End (11 PM), whoever has the most votes is executed, and all votes are cleared. The tiebreaker between players is whoever placed higher on the previous day. If both players had the same number of votes every day of game, none of the tied players will be executed.
+
+
 
 ##Alibis
 
 Non-players are not constrained on what they say. They can lie, tell the truth, or choose not to talk about it. However, players should not actively ask non-players to communicate information about what they witness. Telling a non-player to report who killed you counts as a deadman switch, and is not allowed. Likewise, non-players are discouraged from volunteering information to players without being specifically asked. Players can, nevertheless, take the initiative to ask non-players whether they have any information on what happened.
 
 Information created electronically may never be shown to any other player, and other players should never try to look at it. **Never look at another player's screen. Do not show messages of any kind (although you can paraphrase). Most importantly, players should never see other players' forum screens.** It is the responsibility of all players to make sure this does not happen.
+
+
 
 ##Faking Game Actions
 
@@ -54,24 +67,15 @@ Information created electronically may never be shown to any other player, and o
  - "I am an innocent child and I trust you."
  - "I'm gonna make you an offer you can't refuse."
 
+
+
 ##Town Roles:
 
 ###Investigator
-Whenever a kill is made, a number of clues spawn equal to the number of Serial Killers plus one. Investigators may visit a kill location to study all clues at that kill location. On each visit to the murder location, the Mods will inform them how many clues they find. Note that Serial Killers can destroy clues (see serial killer section below).
 
-Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" A single investigator can only make as many total investigations of a player's death as they found clues at that player's murder location upon the first visit.
+Whenever a kill is made, investigators may visit the kill location. They must message Mods to inform them that they have visited the kill site. They then gain the ability to investigate that player's death. Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
 
-After studying a kill location, an investigator may return to it to count the clues again, but they wait at least an hour before studying the same kill location. The updated clue count does not add to or detract from the number of investigations the investigator can make.
-
-###Superhero
-
-The superhero has two forms: _Superhero Identity_ and _Secret Identity_. Before the start of each day, the superhero can tell the Mods which identity they want to be on the following day. Mods will use a default of _Secret Identity_ unless told otherwise.
-
-**Investigations:** While in _Secret Identity_, the superhero may visit murder sites and study clues, as if they were an investigator. While in _Superhero Identity_, they may make investigations as if they were an investigator.
-
-**Immunity:** Every time the superhero chooses to be in their _Superhero Identity_, they can also choose one person to be paranoid about. If, on the day that they are in _Superhero Identity_, that person dies, their paranoia activates for the following day. Then, if they are in their _Secret Identity_ the day their paranoia is active, they can respond to all attempts to use "BANG" with "I do not die." Paranoia has no effect on the _Superhero Identity_. 
-
-(ex of immunity: sammyluo, the superhero, PMs the Mods on day 1 that he wants to be in his _Superhero Identity_ day 2, with jakob as his paranoia target. Sometime during day 2, jakob happens to be killed, and sammyluo PMs the mods that he would like to be in his _Secret identity_ the following day. Day 3 comes, and the mafia that killed jakob tries to “BANG” sammyluo, too, but since his paranoia is active, he responds with “I do not die” and outs the silly rascal.)
+Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" They must have visited Y's murder scene to do this. A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
 
 ###Conspiracy Theorist
 
@@ -80,6 +84,12 @@ Before the start of each day, the Conspiracy Theorist may designate up to 15% of
 ###Cynic
 
 Before the start of each day, the Cynic may designate up to 15% of the number of players (rounding up) for their cynic list. Mods will assume the list is unchanged unless told otherwise. If anyone on their cynic list dies while on the list, the Cynic becomes immune to "BANG" the next day.
+
+###Priest
+
+Each day, the priest can designate up to 20% of the number of players (rounding up) as sinners, and up to 20% as saints. Mods will assume the list is unchanged unless told otherwise, and will remove the last player on the list at the end of day if the previous list has become larger than 20% of game.
+
+If a sinner on their list kills a saint on their list, the priest will be notified that the killer was a sinner. If a saint kills a sinner, the priest will not be notified, but the kill will be uninvestigable. If a kill is uninvestigable for this reason, this will be announced at the time of the death announcement.
 
 ###Vigilante
 
@@ -91,16 +101,27 @@ Once per game, before the start of a day, the Desperado can tell the Mods that t
 
 ###Gay Knight
 
-At the start of game, each Gay Knight will know the identity of their partner, who is also a Gay Knight. If a Gay Knight dies, then their partner will die at the end of the following day (For example, if the mafia kill a Gay Knight at 6 PM Tuesday, their partner will die at 11 PM Wednesday). Twice per game, if a Gay Knight's partner is dead, they may guess their partner's killer (Note: They don't gather clues and are immune to mafia powers that trick investigators). If they guess correctly, then they are allowed to kill their partner's killer by tapping them on the shoulder and saying "KABOOM." Additionally, if a Gay Knight guesses correctly, they may respond to anyone who tries to use "BANG" on them by saying "I do not die" (You have 10 seconds to say this).
+At the start of game, each Gay Knight will know the identity of their partner, who is also a Gay Knight. If a Gay Knight dies, then their partner will die at the end of the following day (For example, if the mafia kill a Gay Knight at 6 PM Tuesday, their partner will die at 11 PM Wednesday). Twice per game, if a Gay Knight's partner is dead, they may guess their partner's killer (Note: They are immune to mafia powers that trick investigators). If they guess correctly, then they are allowed to kill their partner's killer by tapping them on the shoulder and saying "BANG." Additionally, if a Gay Knight guesses correctly, they may respond to anyone who tries to kill them by saying "I do not die" (You have 10 seconds to say this). Role distributions will be weighted very slightly toward an increased number of gay knights.
 
 ###Innocent Child
 
 The innocent child is allowed to use the phrase "I am an Innocent child and I trust you" in person only. No one else is allowed to use this phrase. The mafia have an ability that allows them to kill innocent children more easily.
 
+###Stalker
+
+The stalker chooses a person to stalk each day. If person X is being stalked by stalker Y, they are informed that they are being stalked, but not told who is stalking them. If person X makes any successful kills while being stalked, their stalker is notified that they made the kill. If stalker Y has ever stalked person X before, they may not do so again, though stalker Z may stalk person X. No manipulation abilities will prevent the stalker from learning if their target makes a kill. Mafia have an ability that allows them to simulate the stalker role.
+
+###Group Investigator
+
+The group investigator acts the same as a regular investigator, but their investigations ask about whether a set of n people killed X. If any of those n people would have returned positive for killing X in regular investigation, the group investigator is told "Yes, someone in that set killed X." Otherwise they are told No.
+
+The group investigator cannot make investigations two days in a row. If their most recent investigation was m days ago, they can ask about any set of size at most 1+2+...+m. For example, if a group investigator made an investigation on day 3, then they cannot make an investigation on day 4. They can ask about a set of at most 3 people on day 5, or can ask about a set of at most 6 people on day 6, or 10 people on day 7, or so on until they make an investigation, at which point their set size resets to 0.
+
+
+
 ##Elected Roles
 
 Players may make petitions to elect a player to an office, or to impeach a player from that office. Any player can sign each petition once. Election petitions for a role cannot exist while anyone is elected to that role. Impeachment petitions for a role cannot exist unless that player is elected to that role. This means that if another player is elected when your petition was aaaalmost ready, you have to throw it out and run from scratch after they die or are impeached. If a petition has the signatures of more than 50% of the living players, then the player who has the petition can use it by pm-ing the Mods the names of the players who signed. There are two elected roles, and a petition must list the name of the role.
-
 
 ###Mayor
 
@@ -112,18 +133,17 @@ Once per day, they may make a single investigation by asking the Mods "Did X kil
 
 ###Police Officer
 
-Each day, the police officer may designate up to three players to "watch" the next day. If any of these players die on that day, the police officer gains three clues (distinct from all clues at the murder scene) for that player's death. Once per day, the police officer may make an investigation, as if they were an investigator. You may make other investigations on the same day if you have a role power that allows you to do so. You may share clues between your police officer power and your role power.
+Each day, the police officer may designate up to three players to "watch" the next day. If any of these players die on that day, the police officer gains the ability to investigate that player's death. Once per day, the police officer may make an investigation, as if they were an investigator. There are no restrictions on the number of times that the officer may investigate a player's death if that player was on their watch list. They may make other investigations on the same day if they have a role power that allows them to do so, and that other role power will also not have restrictions on the number of times they can investigate a watched player's death.
+
 
 
 ##Items
 
 The Mods, being nice guys, have given some players items at the start of game. If someone who is executed has an item, the Mods give it to a random player in game. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone, you must tell the ****Mods****.**
 
-
 ###Shovel: (7 in game)
 
 A player with a shovel may use the shovel to find out all role information of any dead player, including whether or not they were conscripted. Once used, a shovel is destroyed.
-
 
 ###Taser: (4 in game)
 
@@ -147,7 +167,7 @@ Mafia typically needs to find someone in person and touch them in order to kill 
 
 3. Hitman (see below)
 
-###Free Kill: (Once per day)
+###Free Kill: (1 use per day)
 
 Each day, any mafia can attempt to kill someone by tapping them on the shoulder and saying "BANG."  This power is shared between all mafia, but it is not used up if the target doesn't die. 
 
@@ -169,7 +189,7 @@ This power is identical to set a trap, except that slaughter the weak charges ca
 
 ###Frame a Townsperson: (3 uses)
 
-Choose a player X and a player Y. From now on, all investigations asking "Did player X kill player Y?" will return an answer of yes. Note that if W killed Y, an investigation of "Did W kill Y?" will also return an answer of yes.
+Choose a player X and a player Y. From now on, all investigations asking "Did player X kill player Y?" will return an answer of yes. Note that if W killed Y, an investigation of "Did W kill Y?" will also return an answer of yes. This ability will not affect Gay Knight investigations.
 
 ###Plant Evidence: (2 uses)
 
@@ -177,7 +197,7 @@ Choose a player X, and a role and alignment. From now on, all attempts to shovel
 
 ###Manipulate the Press: (1 use)
 
-You may use this on any previous murder the mafia have committed to convert all the clues at the murder site to dummy clues. Dummy clues will always turn up a negative result. The mafia can also set the location where the kill is announced to have happened. When you use this ability, notify both the moderators and the victim immediately, so that the location will be posted as desired.
+You may use this on any previous murder the mafia have committed to cause all investigations to return negative. The mafia can also set the location where the kill is announced to have happened. This ability will not affect Gay Knight investigations, though a Gay Knight will not know the true kill location. Frame may be used on top of this ability to make investigations on a different person return positive. When you use this ability, notify both the moderators and the victim immediately, so that the location will be posted as desired.
 
 ###Hire a Hitman: (1 use)
 
@@ -190,6 +210,10 @@ Once per game, the mafia may conscript a player by tapping them on the shoulder 
 ###Disarm:
 
 If a player says "BANG" to a mafia, they may say "Disarm." (They have 10 seconds to say this). If they do, then they ask the attempted killer if they are a serial killer. If the attempted killer was a serial killer, then the mafia survives. If they were not a serial killer, then the mafia still dies.
+
+###Stalk: (1 use per day)
+
+Each day, the mafia may choose a target person to stalk. This ability works identically to the Stalker role above, and if the target makes a kill it will be reported to Mafia Den.
 
 ###Don:
 
@@ -211,6 +235,8 @@ The mafia are allowed to give anyone they want mafia den access, but they should
 A serial killer has 3 free no-kill days. Every day that they could make a kill but do not, they lose one of these no-kill days. If they fail to make a kill when they could have, and have already used up all their no-kill days, they die of bloodlust. For example, if they make kills on days 1, 4, 7, they have not used up any of these three days; if they make kills on days 2 and 6 they will die at the end of day 10, having used their no-kill days on days 1, 5, and 9.
 
 If the serial killer tries to kill someone and fails, they cannot try to kill the same person again on the same day (this is separate from the mafia's restriction). 
+
+If a serial killer visits a kill site (of a kill made by someone other than themself) before at least 3 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the mafia more easily.
 
 ##Credits:
 
