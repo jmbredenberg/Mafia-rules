@@ -73,9 +73,9 @@ Information created electronically may never be shown to any other player, and o
 
 ###Investigator
 
-Whenever a kill is made, investigators may visit the kill location. They must message Mods to inform them that they have visited the kill site. They then gain the ability to investigate that player's death. Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
+Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
 
-Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" They must have visited Y's murder scene to do this. A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
+**An investigator cannot investigate the death of a player unless they have visited the kill scene (and have informed Mods that they did so).** Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
 
 ###Conspiracy Theorist
 
