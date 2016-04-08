@@ -131,7 +131,7 @@ Each day, the police officer may designate up to three players to "watch" the ne
 
 ##Items
 
-The Mods, being nice guys, have given some players items at the start of game. If someone who is executed has an item, the Mods give it to a random player in game. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone, you must tell the ****Mods****.**
+The Mods, being nice guys, have given some players items at the start of game. If someone who is executed has an item, the Mods give it to a random player in game. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone, you must tell the Mods.**
 
 ###Shovel: (7 in game)
 
@@ -139,7 +139,7 @@ A player with a shovel may use the shovel to find out all role information of an
 
 ###Taser: (4 in game)
 
-You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE <Name of target>". A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
+You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE (name of target)". A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
 ###Fake ID: (4 in game)
 
