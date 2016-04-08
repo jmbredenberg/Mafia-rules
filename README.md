@@ -97,9 +97,11 @@ The innocent child is allowed to use the phrase "I am an Innocent child and I tr
 
 ###Priest
 
-Each day, the priest can designate up to 20% of the number of players (rounding up) as sinners, and up to 20% as saints. Mods will assume the list is unchanged unless told otherwise, and will remove the last player on the list at the end of day if the previous list has become larger than 20% of game.
+Each day, the priest can designate up to 20% of the number of players (rounding up) as sinners, and up to 20% as saints. Mods will assume the list is unchanged unless told otherwise, and will remove the last player on the list at the end of day if the previous list has become larger than 20% of game. No player can be on both their sinner list and their saint list.
 
 If a sinner on their list kills a saint on their list, the priest will be notified that the killer was a sinner. If a saint kills a sinner, the priest will not be notified, but the kill will be uninvestigable. If a kill is uninvestigable for this reason, this will be announced at the time of the death announcement.
+
+If the priest is conscripted, they sell their soul to the devil and lose their godly right to trust in saints; kills made by a saint on a sinner are no longer uninvestigable.
 
 ###Stalker
 
@@ -179,7 +181,7 @@ Once per day, the mafia can set a trap on someone by pm-ing the Mods with a gues
 
 This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children.
 
-###Frame a Townsperson: (3 uses)
+###Frame a Townsperson: (4 uses)
 
 Choose a player X and a player Y. From now on, all investigations asking "Did player X kill player Y?" will return an answer of yes. Note that if W killed Y, an investigation of "Did W kill Y?" will also return an answer of yes. This ability will not affect Gay Knight investigations.
 
