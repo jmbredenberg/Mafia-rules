@@ -105,7 +105,9 @@ Players may make petitions to elect a player to an office, or to impeach a playe
 ###Mayor
 
 The mayor's vote counts as three votes.
+
 Twice per game, the mayor may ask the Mods how many mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the mafia during their regime.
+
 Once per day, they may make a single investigation by asking the Mods "Did X kill Y?" They do not need to collect clues.
 
 ###Police Officer
