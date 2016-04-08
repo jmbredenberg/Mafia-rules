@@ -22,7 +22,7 @@ Periodically, the moderators may notify noticeably inactive players about their 
 
 ##Goals
 
-The Town wins if all mafia are dead. The mafia wins if all townies are dead. If you are currently a townie, your goal is for the town to win. If you are a mafia, your goal is for the mafia to win. If you are a serial killer, your goal is for the mafia to win. Everyone is 100% loyal to their current team, even if they expect to switch teams. **You win with your team; your personal survival does not matter. **
+The Town wins if all mafia are dead and at least one townie is alive. The mafia wins if all townies are dead. Game ends immediately when either condition is satisfied. If you are currently a townie, your goal is for the town to win. If you are a mafia, your goal is for the mafia to win. If you are a serial killer, your goal is for the mafia to win. Everyone is 100% loyal to their current team, even if they expect to switch teams. **You win with your team; your personal survival does not matter. **
 
 ##Kills
 
@@ -35,7 +35,7 @@ Kills will be announced officially on the forums. If a kill announcement happens
 
 ##Executions
 
-Each day, each player may cast a vote for a player to execute. You may vote for No Execution. You may make conditional votes (ex: Vote for player X unless there's another kill, otherwise vote for player Y). Mods will count only your latest submission (ex: you voted for sammyluo at 9:07pm, but then voted again for jakob at 9:09pm, you will be counted as voting to execute jakob). At Day End (11 PM), whoever has the most votes is executed, and all votes are cleared. The tiebreaker between players is whoever placed higher on the previous day. If both players had the same number of votes every day of game, all tied players will be executed.
+Each day, each player may cast a vote for a player to execute. **You may vote for No Execution on the first night only; after that you must vote for a player.** You may make conditional votes (ex: Vote for player X unless there's another kill, otherwise vote for player Y). Mods will count only your latest submission (ex: you voted for sammyluo at 9:07pm, but then voted again for jakob at 9:09pm, you will be counted as voting to execute jakob). **If a player does not vote, they will be counted as voting for themselves.** At Day End (11 PM), whoever has the most votes is executed, and all votes are cleared. The tiebreaker between players is whoever placed higher on the previous day. If both players had the same number of votes every day of game, none of the tied players will be executed.
 
 ##Alibis
 
@@ -112,29 +112,28 @@ Once per day, they may make a single investigation by asking the Mods "Did X kil
 
 Each day, the police officer may designate up to three players to "watch" the next day. If any of these players die on that day, the police officer gains three clues (distinct from all clues at the murder scene) for that player's death. Once per day, the police officer may make an investigation, as if they were an investigator. You may make other investigations on the same day if you have a role power that allows you to do so. You may share clues between your police officer power and your role power.
 
-Whenever the police officer would use "BANG" on someone, they may always choose to use "KABOOM" instead. If a police officer uses "KABOOM" on someone, all that person's items are destroyed (instead of given to the police officer).
 
 ##Items
 
 The Mods, being nice guys, have given some players items at the start of game. If someone who is executed has an item, the Mods give it to a random player in game. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone, you must tell the ****Mods****.**
 
 
-###Shovel: (3 in game)
+###Shovel: (7 in game)
 
 A player with a shovel may use the shovel to find out all role information of any dead player, including whether or not they were conscripted. Once used, a shovel is destroyed.
 
 
-###Taser: (2 in game)
+###Taser: (4 in game)
 
 You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE <Name of target>". A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
-###Fake ID: (2 in game)
+###Fake ID: (4 in game)
 
 You may choose to use this item on any night. Once used, the item is destroyed and you cannot use it again. On the night when you use the fake ID, your vote counts +1.
 
 
 
-##Mafia: (2 mafia in game)
+##Mafia: (5 mafia in game)
 
 The following powers are all usable by mafia, and can be used in combination with each other.
 
@@ -150,40 +149,33 @@ Mafia typically needs to find someone in person and touch them in order to kill 
 
 Each day, any mafia can attempt to kill someone by tapping them on the shoulder and saying "BANG."  This power is shared between all mafia, but it is not used up if the target doesn't die. 
 
-###KABOOM!: (2 uses)
-
-When you attempt to make a kill, you can use this power by saying "KABOOM" instead of "BANG." All of the target's items are destroyed (instead of the killer taking them). A target who is kaboomed dies, no matter what protection they may have. If you are mafia, you cannot "KABOOM" someone whom the mafia have tried to kill earlier that day with "BANG." Kaboom uses will regenerate if they are used on a target with some sort of protection that using a kaboom would circumvent (medkit, microphone, camera, or role powers).
-
-**Note:** Kaboom regeneration after killing someone with a microphone only occurs if the corresponding receiver still exists and is in the hands of a town-aligned player. A similar rule applies for cameras.
-
 ###Scheme: (1 use)
 
-A mafia who has not made any kills yet on a day can use this power to make an extra kill. If all mafia have made a kill on a day, then any mafia can use this power to make a kill.
+A mafia who has not made any kills yet on a day can use this power to make an extra kill. If all living mafia have made a kill on a day, then any mafia can use this power to make a kill.
 
-###Poison: (2 uses)
+###Poison: (3 uses)
 
 The mafia may use this power to poison a player. At the start of the next day the victim is informed that they have been poisoned. The victim dies forty-eight hours later (after the execution). 
 
+###Set a Trap: (3 charges)
 
-###Set a Trap: (2 traps)
-
-The mafia start the game with 2 set a traps. Once per day, the mafia can set a trap on someone by pm-ing the Mods with a guess about that person's role. If their guess is incorrect, the trap is destroyed. If their guess is correct, an active charge is stored on the target, and a kill on that person by the mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the trap charge on that person regenerates.
+Once per day, the mafia can set a trap on someone by pm-ing the Mods with a guess about that person's role. If their guess is incorrect, the trap is destroyed. If their guess is correct, an active charge is stored on the target, and a kill on that person by the mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the trap charge on that person regenerates.
 
 ###Slaughter the Weak: (1 charge)
 
 This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children.
 
-###Frame a Townsperson: (1 use)
+###Frame a Townsperson: (3 uses)
 
 Choose a player X and a player Y. From now on, all investigations asking "Did player X kill player Y?" will return an answer of yes. Note that if W killed Y, an investigation of "Did W kill Y?" will also return an answer of yes.
 
-###Plant Evidence: (1 use)
+###Plant Evidence: (2 uses)
 
 Choose a player X, and a role and alignment. From now on, all attempts to shovel player X will return the falsified role and alignment.
 
 ###Manipulate the Press: (1 use)
 
-You may use this on any previous murder the mafia have committed to convert all the clues at the murder site to dummy clues. Dummy clues will always turn up a negative result. The mafia can also set the location where the kill is announced to have happened.
+You may use this on any previous murder the mafia have committed to convert all the clues at the murder site to dummy clues. Dummy clues will always turn up a negative result. The mafia can also set the location where the kill is announced to have happened. When you use this ability, notify both the moderators and the victim immediately, so that the location will be posted as desired.
 
 ###Hire a Hitman: (1 use)
 
