@@ -195,20 +195,18 @@ Once per game, the mafia can designate one mafia (not a rogue) to be the Don. Th
 
 ###Mafia restrictions:
 
-If 2 consecutive days or 3 cumulative days pass by where any mafia aligned players don't make any kills, town automatically wins.
+If 2 consecutive days or 3 cumulative days pass by where no mafia aligned players make kills, town automatically wins.
 
 If the mafia try to kill someone and fail, no mafia can try to kill the same person again on the same day (this is separate from the serial killer's restriction). 
 
 
-##Serial Killer: (1 serial killer in game)
+##Serial Killer: (2 serial killers in game)
 
-The serial killers want the mafia to win. Unfortunately, they don't know who the mafia are. The serial killer may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the kill succeeds, or if the serial killer was disarmed, then they can't make another kill until three days later (for example, an attempted kill at 11 am on a Thursday means you cannot make a kill again until after day end on Saturday). The same serial killer may not try to kill the same person twice on the same day.
+The serial killers want the mafia to win. Unfortunately, they don't know who the mafia are. The serial killer may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the kill succeeds, or if the serial killer was disarmed, then they can't make another kill until three days later (for example, if you make a kill at any time on Thursday, you cannot make a kill again until after day end on Saturday). The same serial killer may not try to kill the same person twice on the same day.
 
-The mafia are allowed to give anyone they want mafia den access.
+The mafia are allowed to give anyone they want mafia den access, but they should be wary that some players might pretend to be serial killers to gain information on the mafia.
 
-###Serial Killer restrictions:
-
-A serial killer must make a kill within the first three days of game, or else they die of bloodlust. After their first kill, if 2 cumulative days pass by where the serial killer could have made a kill but did not, the serial killer dies of bloodlust.
+A serial killer has 3 free no-kill days. Every day that they could make a kill but do not, they lose one of these no-kill days. If they fail to make a kill when they could have, and have already used up all their no-kill days, they die of bloodlust. For example, if they make kills on days 1, 4, 7, they have not used up any of these three days; if they make kills on days 2 and 6 they will die at the end of day 10, having used their no-kill days on days 1, 5, and 9.
 
 If the serial killer tries to kill someone and fails, they cannot try to kill the same person again on the same day (this is separate from the mafia's restriction). 
 
