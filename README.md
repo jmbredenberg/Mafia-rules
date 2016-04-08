@@ -60,40 +60,16 @@ Information created electronically may never be shown to any other player, and o
 
 **Do not fake incants. We also ask non-players not to fake game incants. **You are not allowed to not use an incant and make it look like you did (although using an incant and making it look like you didn't is, of course, acceptable). As a reminder, the incants not to fake are:
 
- - "BANG"
- - "I TAZE <Name>"
+ - "BANG!"
+ - "I TAZE (Name)."
  - "I do not die."
- - "Disarm"
+ - "Disarm."
  - "I am an innocent child and I trust you."
  - "I'm gonna make you an offer you can't refuse."
 
 
 
 ##Town Roles:
-
-###Investigator
-
-Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
-
-**An investigator cannot investigate the death of a player unless they have visited the kill scene (and have informed Mods that they did so).** Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
-
-###Conspiracy Theorist
-
-Before the start of each day, the Conspiracy Theorist may designate up to 15% of the number of players (rounding up) for their conspiracy list. Mods will assume the list is unchanged unless told otherwise. If anyone on their conspiracy list attempts to use "BANG" on them, they may respond with "I do not die" (You have 10 seconds to say this).
-
-###Cynic
-
-Before the start of each day, the Cynic may designate up to 15% of the number of players (rounding up) for their cynic list. Mods will assume the list is unchanged unless told otherwise. If anyone on their cynic list dies while on the list, the Cynic becomes immune to "BANG" the next day.
-
-###Priest
-
-Each day, the priest can designate up to 20% of the number of players (rounding up) as sinners, and up to 20% as saints. Mods will assume the list is unchanged unless told otherwise, and will remove the last player on the list at the end of day if the previous list has become larger than 20% of game.
-
-If a sinner on their list kills a saint on their list, the priest will be notified that the killer was a sinner. If a saint kills a sinner, the priest will not be notified, but the kill will be uninvestigable. If a kill is uninvestigable for this reason, this will be announced at the time of the death announcement.
-
-###Vigilante
-
-Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG" at least ten seconds after deciding to do so. If the person died and was mafia (including conscript) or serial killer, then the vigilante gains this ability back, but cannot use it again until the following day. If the person does not die for any reason or was town aligned, the Vigilante loses their power for the rest of game. Vigilantes are town aligned, and their goal is for the town to win. 
 
 ###Desperado
 
@@ -107,15 +83,31 @@ At the start of game, each Gay Knight will know the identity of their partner, w
 
 The innocent child is allowed to use the phrase "I am an Innocent child and I trust you" in person only. No one else is allowed to use this phrase. The mafia have an ability that allows them to kill innocent children more easily.
 
+###Investigator
+
+Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
+
+**An investigator cannot investigate the death of a player unless they have visited the kill scene (and have informed Mods that they did so).** Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
+
+###Group Investigator
+
+The group investigator acts the same as a regular investigator, but their investigations ask about whether a set of n people killed X. If any of those n people would have returned positive for killing X in a regular investigation, the group investigator is told "Yes, someone in that set killed X." Otherwise they are told No.
+
+The group investigator cannot make investigations two days in a row. If their most recent investigation was m days ago, they can ask about any set of size at most 1+2+...+m. For example, if a group investigator made an investigation on day 3, then they cannot make an investigation on day 4. They can ask about a set of at most 3 people on day 5, or can ask about a set of at most 6 people on day 6, or 10 people on day 7, or so on until they make an investigation, at which point their set size resets to 0.
+
+###Priest
+
+Each day, the priest can designate up to 20% of the number of players (rounding up) as sinners, and up to 20% as saints. Mods will assume the list is unchanged unless told otherwise, and will remove the last player on the list at the end of day if the previous list has become larger than 20% of game.
+
+If a sinner on their list kills a saint on their list, the priest will be notified that the killer was a sinner. If a saint kills a sinner, the priest will not be notified, but the kill will be uninvestigable. If a kill is uninvestigable for this reason, this will be announced at the time of the death announcement.
+
 ###Stalker
 
 The stalker chooses a person to stalk each day. If person X is being stalked by stalker Y, they are informed that they are being stalked, but not told who is stalking them. If person X makes any successful kills while being stalked, their stalker is notified that they made the kill. If stalker Y has ever stalked person X before, they may not do so again, though stalker Z may stalk person X. No manipulation abilities will prevent the stalker from learning if their target makes a kill. Mafia have an ability that allows them to simulate the stalker role.
 
-###Group Investigator
+###Vigilante
 
-The group investigator acts the same as a regular investigator, but their investigations ask about whether a set of n people killed X. If any of those n people would have returned positive for killing X in regular investigation, the group investigator is told "Yes, someone in that set killed X." Otherwise they are told No.
-
-The group investigator cannot make investigations two days in a row. If their most recent investigation was m days ago, they can ask about any set of size at most 1+2+...+m. For example, if a group investigator made an investigation on day 3, then they cannot make an investigation on day 4. They can ask about a set of at most 3 people on day 5, or can ask about a set of at most 6 people on day 6, or 10 people on day 7, or so on until they make an investigation, at which point their set size resets to 0.
+Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG" at least ten seconds after deciding to do so. If the person died and was mafia (including conscript) or serial killer, then the vigilante gains this ability back, but cannot use it again until the following day. If the person does not die for any reason or was town aligned, the Vigilante loses their power for the rest of game. Vigilantes are town aligned, and their goal is for the town to win. 
 
 
 
