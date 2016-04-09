@@ -157,7 +157,7 @@ The following powers are all usable by mafia, and can be used in combination wit
 
 Mafia typically needs to find someone in person and touch them in order to kill them. Three exceptions are: 
 
-1. If they are in their own private room but their door is open, the mafia can stand in the doorway and say "I kill you one, I kill you two, I kill you three, BANG/KABOOM." They may not interrupt this incant, they may not slam the door in the mafia's face, they may not jump out their window, but they are free to make any communications they want otherwise while the mafia chants.
+1. If they are in their own private room but their door is open, the mafia can stand in the doorway and say "I kill you one, I kill you two, I kill you three, BANG." They may not interrupt this incant, they may not slam the door in the mafia's face, they may not jump out their window, but they are free to make any communications they want otherwise while the mafia chants.
 
 2. Poisons (see below)
 
