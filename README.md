@@ -145,10 +145,6 @@ A player with a shovel may use the shovel to find out all role information of an
 
 You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE (name of target)". A target who has been tazed many not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
-###Fake ID: (4 in game)
-
-You may choose to use this item on any night. Once used, the item is destroyed and you cannot use it again. On the night when you use the fake ID, your vote counts +1.
-
 
 
 ##Mafia: (5 mafia in game)
