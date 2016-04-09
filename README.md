@@ -89,7 +89,7 @@ At the start of game, each Gay Knight will know the identity of their partner, w
 
 The group investigator acts the same as a regular investigator, but their investigations ask about whether a set of n people killed X. If any of those n people would have returned positive for killing X in a regular investigation, the group investigator is told "Yes, someone in that set killed X." Otherwise they are told No.
 
-The group investigator cannot make investigations two days in a row. If their most recent investigation was m days ago, they can ask about any set of size at most 1+2+...+m. For example, if a group investigator made an investigation on day 3, then they cannot make an investigation on day 4. They can ask about a set of at most 3 people on day 5, or can ask about a set of at most 6 people on day 6, or 10 people on day 7, or so on until they make an investigation, at which point their set size resets to 0.
+The group investigator cannot make investigations two days in a row. If their most recent investigation was m days ago, they can ask about any set of size at most 1+2+...+m. For example, if a group investigator made an investigation on day 3, then they cannot make an investigation on day 4. They can ask about a set of at most 3 people on day 5, or can ask about a set of at most 6 people on day 6, or 10 people on day 7, or so on until they make an investigation, at which point their set size resets to 0. The group investigator is considered to have made an investigation on day 0, so they cannot make investigations on day 1, and have a maximum set size of 3 on day 2.
 
 ###Innocent Child
 
@@ -123,11 +123,13 @@ The mayor's vote counts as three votes.
 
 Twice per game, the mayor may ask the Mods how many mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the mafia during their regime.
 
-Once per day, they may make a single investigation by asking the Mods "Did X kill Y?"
+Once per day, they may make a single investigation by asking the Mods "Did X kill Y?" **They must have visited Y's kill site in order to make this investigation.** It counts if they visited the kill site before becoming elected mayor.
 
 ###Police Officer
 
-Each day, the police officer may designate up to three players to "watch" the next day. If any of these players die on that day, the police officer gains the ability to investigate that player's death. Once per day, the police officer may make an investigation, as if they were an investigator. There are no restrictions on the number of times that the officer may investigate a player's death if that player was on their watch list. They may make other investigations on the same day if they have a role power that allows them to do so, and that other role power will also not have restrictions on the number of times they can investigate a watched player's death.
+Each day, the police officer may designate up to three players to "watch" the next day. The police officer gets one investigation per day (in addition to whatever investigative role powers they may have). They can use it on any person that died while on their watch list, even if they have previously investigated that death.
+
+A police officer must visit a person's death scene and message the Mods that they did so before they can make any investigations on that person's death.
 
 
 
@@ -230,9 +232,9 @@ The mafia are allowed to give anyone they want mafia den access, but they should
 
 A serial killer has 3 free no-kill days. Every day that they could make a kill but do not, they lose one of these no-kill days. If they fail to make a kill when they could have, and have already used up all their no-kill days, they die of bloodlust. For example, if they make kills on days 1, 4, 7, they have not used up any of these three days; if they make kills on days 2 and 6 they will die at the end of day 10, having used their no-kill days on days 1, 5, and 9.
 
-If the serial killer tries to kill someone and fails, they cannot try to kill the same person again on the same day (this is separate from the mafia's restriction). 
+If the serial killer tries to kill someone and fails because the target was immune, they can make another kill the same day, but they cannot try to kill the same person again on the same day (this is separate from the mafia's restriction). They cannot make another kill that day if they were disarmed.
 
-If a serial killer visits a kill site (of a kill made by someone other than themself) before at least 3 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the mafia more easily.
+If a serial killer visits a kill site (of a kill made by someone other than themself) before at least 3 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the mafia more easily. Any role that visits a kill site in order to gain investigative powers counts toward those 3 investigators.
 
 ##Credits:
 
