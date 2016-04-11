@@ -14,7 +14,7 @@ Communication with the Mods is confidential. Do not reveal anything about what t
 
 The forums at mafia.mit.edu have three sub-forums for this game. The Town Square is for all living players to communicate in. The Mafia Den is for the living mafia and anyone they choose to add. The Graveyard is for the dead players.
 
-Cryptography, anonymous communication, and dead-man switches are not allowed. Public randomness (a coin flip or die roll that everyone can see) is also forbidden. Private randomness ("hey guys, I totally chose this at random") is allowed.
+Cryptography, anonymous communication, hacking the website, and dead-man switches are not allowed. Public randomness (a coin flip or die roll that everyone can see) is also forbidden. Private randomness ("hey guys, I totally chose this at random") is allowed. Be reasonable.
 
 Special request from the moderators: please cc: them on your sketchy private messages. They enjoy reading about your plots (and possibly discussing them on Graveyard). In fact, you should do this even if your private messages aren't sketchy.
 
