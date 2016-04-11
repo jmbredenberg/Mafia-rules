@@ -8,11 +8,11 @@ The mods for this game are Jackie Bredenberg, Luke Sciarappa, and Dylan Hendrick
 
 ##Communication
 
-You may communicate with moderators by messaging their account on the mafia forums, sending them an email, or by communicating with them in private. Any method is acceptable, but please send all messages to their joint account/mailing list and not to them individually.
+You may communicate with moderators by messaging their account on the Mafia forums, sending them an email, or by communicating with them in private. Any method is acceptable, but please send all messages to their joint account/mailing list and not to them individually.
 
 Communication with the Mods is confidential. Do not reveal anything about what the Mods communicate to you, except what you have learned through official game actions. 
 
-The forums at mafia.mit.edu have three sub-forums for this game. The Town Square is for all living players to communicate in. The Mafia Den is for the living mafia and anyone they choose to add. The Graveyard is for the dead players.
+The forums at mafia.mit.edu have three sub-forums for this game. The Town Square is for all living players to communicate in. The Mafia Den is for the living Mafia and anyone they choose to add. The Graveyard is for the dead players.
 
 Cryptography, anonymous communication, hacking the website, and dead-man switches are not allowed. Public randomness (a coin flip or die roll that everyone can see) is also forbidden. Private randomness ("hey guys, I totally chose this at random") is allowed. Be reasonable.
 
@@ -28,7 +28,7 @@ Periodically, the moderators may notify noticeably inactive players about their 
 
 ##Goals
 
-The Town wins if all mafia are dead and at least one townie is alive. The mafia wins if all townies are dead. Game ends immediately when either condition is satisfied. If you are currently a townie, your goal is for the town to win. If you are a mafia, your goal is for the mafia to win. If you are a serial killer, your goal is for the mafia to win. Everyone is 100% loyal to their current team, even if they expect to switch teams. **You win with your team; your personal survival does not matter. **
+The Town wins if all Mafia are dead and at least one Townie is alive. The Mafia wins if all Townies are dead. Game ends immediately when either condition is satisfied. If you are currently a Townie, your goal is for the Town to win. If you are a Mafia, your goal is for the Mafia to win. If you are a serial killer, your goal is for the Mafia to win. Everyone is 100% loyal to their current team, even if they expect to switch teams. **You win with your team; your personal survival does not matter. **
 
 
 
@@ -71,7 +71,7 @@ Information created electronically may never be shown to any other player, and o
 
 ##Town Roles:
 
-Moderators will randomly and independently assign roles to players. (Except for Mafia / Serial Killers, which are not assigned independently because there are a fixed number of mafia in game, and something about having an even number of gay knights.) Mods reserve the right to re-randomize the roles until they achieve a role distribution they're happy with.
+Moderators will randomly and independently assign roles to players. (Except for Mafia / Serial Killers, which are not assigned independently because there are a fixed number of Mafia in game, and something about having an even number of gay knights.) Mods reserve the right to re-randomize the roles until they achieve a role distribution they're happy with.
 
 ###Investigator
 
@@ -85,7 +85,7 @@ Once per game, before the start of a day, the Desperado can tell the Mods that t
 
 ###Gay Knight
 
-At the start of game, each Gay Knight will know the identity of their partner, who is also a Gay Knight. If a Gay Knight dies, then their partner will die at the end of the following day (For example, if the mafia kill a Gay Knight at 6 PM Tuesday, their partner will die at 11 PM Wednesday). Twice per game, if a Gay Knight's partner is dead, they may guess their partner's killer (Note: They are immune to mafia powers that trick investigators). If they guess correctly, then they are allowed to kill their partner's killer by tapping them on the shoulder and saying "BANG." Additionally, if a Gay Knight guesses correctly, they may respond to anyone who tries to kill them by saying "I do not die" (You have 10 seconds to say this). Role distributions will be weighted very slightly toward an increased number of gay knights.
+At the start of game, each Gay Knight will know the identity of their partner, who is also a Gay Knight. If a Gay Knight dies, then their partner will die at the end of the following day (For example, if the Mafia kill a Gay Knight at 6 PM Tuesday, their partner will die at 11 PM Wednesday). Twice per game, if a Gay Knight's partner is dead, they may guess their partner's killer (Note: They are immune to Mafia powers that trick investigators). If they guess correctly, then they are allowed to kill their partner's killer by tapping them on the shoulder and saying "BANG." Additionally, if a Gay Knight guesses correctly, they may respond to anyone who tries to kill them by saying "I do not die" (You have 10 seconds to say this). Role distributions will be weighted very slightly toward an increased number of gay knights.
 
 ###Group Investigator
 
@@ -95,7 +95,7 @@ The group investigator cannot make investigations two days in a row. If their mo
 
 ###Innocent Child
 
-The innocent child is allowed to use the phrase "I am an Innocent child and I trust you" in person only. No one else is allowed to use this phrase. The mafia have an ability that allows them to kill innocent children more easily.
+The innocent child is allowed to use the phrase "I am an Innocent child and I trust you" in person only. No one else is allowed to use this phrase. The Mafia have an ability that allows them to kill innocent children more easily.
 
 ###Priest
 
@@ -111,7 +111,7 @@ The stalker chooses a person to stalk each day. If person X is being stalked by 
 
 ###Vigilante
 
-Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG" at least ten seconds after deciding to do so. If the person died and was mafia (including conscript) or serial killer, then the vigilante gains this ability back, but cannot use it again until the following day. If the person does not die for any reason or was town aligned, the Vigilante loses their power for the rest of game. Vigilantes are town aligned, and their goal is for the town to win. 
+Once per game, a vigilante may attempt to kill any player by tapping them on the shoulder and saying "BANG" at least ten seconds after deciding to do so. If the person died and was Mafia (including conscript) or serial killer, then the vigilante gains this ability back, but cannot use it again until the following day. If the person does not die for any reason or was Town aligned, the Vigilante loses their power for the rest of game. Vigilantes are Town aligned, and their goal is for the Town to win. 
 
 
 
@@ -123,7 +123,7 @@ Players may make petitions to elect a player to an office, or to impeach a playe
 
 The mayor's vote counts as three votes.
 
-Twice per game, the mayor may ask the Mods how many mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the mafia during their regime.
+Twice per game, the mayor may ask the Mods how many Mafia there are (including conscript, but not including serial killers). No mayor may use more than one count the Mafia during their regime.
 
 Once per day, they may make a single investigation by asking the Mods "Did X kill Y?" **They must have visited Y's kill site in order to make this investigation.** It counts if they visited the kill site before becoming elected mayor.
 
@@ -149,13 +149,13 @@ You may write a target's name on a taser. Once written, it cannot be erased. 5 m
 
 
 
-##Mafia: (5 mafia in game)
+##Mafia: (5 Mafia in game)
 
-The following powers are all usable by mafia, and can be used in combination with each other.
+The following powers are all usable by Mafia, and can be used in combination with each other.
 
 Mafia typically needs to find someone in person and touch them in order to kill them. Three exceptions are: 
 
-1. If they are in their own private room but their door is open, the mafia can stand in the doorway and say "I kill you one, I kill you two, I kill you three, BANG." They may not interrupt this incant, they may not slam the door in the mafia's face, they may not jump out their window, but they are free to make any communications they want otherwise while the mafia chants.
+1. If they are in their own private room but their door is open, the Mafia can stand in the doorway and say "I kill you one, I kill you two, I kill you three, BANG." They may not interrupt this incant, they may not slam the door in the Mafia's face, they may not jump out their window, but they are free to make any communications they want otherwise while the Mafia chants.
 
 2. Poisons (see below)
 
@@ -163,19 +163,19 @@ Mafia typically needs to find someone in person and touch them in order to kill 
 
 ###Free Kill: (1 use per day)
 
-Each day, any mafia can attempt to kill someone by tapping them on the shoulder and saying "BANG."  This power is shared between all mafia, but it is not used up if the target doesn't die. 
+Each day, any Mafia can attempt to kill someone by tapping them on the shoulder and saying "BANG."  This power is shared between all Mafia, but it is not used up if the target doesn't die. 
 
 ###Scheme: (1 use)
 
-A mafia who has not made any kills yet on a day can use this power to make an extra kill. If all living mafia have made a kill on a day, then any mafia can use this power to make a kill.
+A Mafia who has not made any kills yet on a day can use this power to make an extra kill. If all living Mafia have made a kill on a day, then any Mafia can use this power to make a kill.
 
 ###Poison: (3 uses)
 
-The mafia may use this power to poison a player. At the start of the next day the victim is informed that they have been poisoned. The victim dies forty-eight hours later (after the execution). 
+The Mafia may use this power to poison a player. At the start of the next day the victim is informed that they have been poisoned. The victim dies forty-eight hours later (after the execution). 
 
 ###Set a Trap: (3 charges)
 
-Once per day, the mafia can set a trap on someone by pm-ing the Mods with a guess about that person's role. If their guess is incorrect, the trap is destroyed. If their guess is correct, an active charge is stored on the target, and a kill on that person by the mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the trap charge on that person regenerates.
+Once per day, the Mafia can set a trap on someone by pm-ing the Mods with a guess about that person's role. If their guess is incorrect, the trap is destroyed. If their guess is correct, an active charge is stored on the target, and a kill on that person by the Mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the trap charge on that person regenerates.
 
 ###Slaughter the Weak: (1 charge)
 
@@ -191,48 +191,48 @@ Choose a player X, and a role and alignment. From now on, all attempts to shovel
 
 ###Manipulate the Press: (1 use)
 
-You may use this on any previous murder the mafia have committed to cause all investigations to return negative. The mafia can also set the location where the kill is announced to have happened. **When you use this ability, notify both the moderators and the victim immediately, so that the location will be posted as desired.**
+You may use this on any previous murder the Mafia have committed to cause all investigations to return negative. The Mafia can also set the location where the kill is announced to have happened. **When you use this ability, notify both the moderators and the victim immediately, so that the location will be posted as desired.**
 
 This ability will not affect Gay Knight investigations, though a Gay Knight will not know the true kill location. It will work on all other investigative roles including police officers and mayors. Frame may be used on top of this ability to make investigations on a different person return positive. 
 
 ###Hire a Hitman: (1 use)
 
-Before the start of the day, the mafia may designate a non-player as a hitman. For that day, the hitman may attempt a kill. This uses up the mafia's daily kill. 
+Before the start of the day, the Mafia may designate a non-player as a hitman. For that day, the hitman may attempt a kill. This uses up the Mafia's daily kill. 
 
 ###Conscript: (1 use)
 
-Once per game, the mafia may conscript a player by tapping them on the shoulder and saying "I'm gonna make you an offer you can't refuse." The conscript's goal is now for the mafia to win. The conscript retains any abilities they had before they were conscripted. The conscript can use mafia powers as if they were a member of the mafia. You MAY conscript someone after a failed kill attempt.
+Once per game, the Mafia may conscript a player by tapping them on the shoulder and saying "I'm gonna make you an offer you can't refuse." The conscript's goal is now for the Mafia to win. The conscript retains any abilities they had before they were conscripted. The conscript can use Mafia powers as if they were a member of the Mafia. You MAY conscript someone after a failed kill attempt.
 
 ###Disarm:
 
-If a player says "BANG" to a mafia, they may say "Disarm." (They have 10 seconds to say this). If they do, then they ask the attempted killer if they are a serial killer. If the attempted killer was a serial killer, then the mafia survives. If they were not a serial killer, then the mafia still dies.
+If a player says "BANG" to a Mafia, they may say "Disarm." (They have 10 seconds to say this). If they do, then they ask the attempted killer if they are a serial killer. If the attempted killer was a serial killer, then the Mafia survives. If they were not a serial killer, then the Mafia still dies.
 
 ###Stalk: (1 use per day)
 
-Each day, the mafia may choose a target person to stalk. This ability works identically to the Stalker role above, and if the target makes a kill it will be reported to Mafia Den.
+Each day, the Mafia may choose a target person to stalk. This ability works identically to the Stalker role above, and if the target makes a kill it will be reported to Mafia Den.
 
 ###Don:
 
-Once per game, the mafia can designate one mafia (not a rogue) to be the Don. The Don does not have to be someone who started the game as mafia. When the Don makes a kill, the victim's microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far while being Don. If two of three consecutive mafia kills are made by the Don (while they are Don), then the mafia loses the Don powers permanently. However, they still come up negative on all kills they made as Don before they lost their Don powers.
+Once per game, the Mafia can designate one Mafia (not a rogue) to be the Don. The Don does not have to be someone who started the game as Mafia. When the Don makes a kill, the victim's microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far while being Don. If two of three consecutive Mafia kills are made by the Don (while they are Don), then the Mafia loses the Don powers permanently. However, they still come up negative on all kills they made as Don before they lost their Don powers.
 
 ###Mafia restrictions:
 
-If 2 consecutive days or 3 cumulative days pass by where no mafia aligned players make kills, town automatically wins.
+If 2 consecutive days or 3 cumulative days pass by where no Mafia aligned players make kills, Town automatically wins.
 
-If the mafia try to kill someone and fail, no mafia can try to kill the same person again on the same day (this is separate from the serial killer's restriction). 
+If the Mafia try to kill someone and fail, no Mafia can try to kill the same person again on the same day (this is separate from the serial killer's restriction). 
 
 
 ##Serial Killer: (2 serial killers in game)
 
-The serial killers want the mafia to win. Unfortunately, they don't know who the mafia are. The serial killer may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the kill succeeds, or if the serial killer was disarmed, then they can't make another kill until three days later (for example, if you make a kill at any time on Thursday, you cannot make a kill again until after day end on Saturday). The same serial killer may not try to kill the same person twice on the same day.
+The serial killers want the Mafia to win. Unfortunately, they don't know who the Mafia are. The serial killer may attempt to kill any player by tapping them on the shoulder and saying "BANG". If the kill succeeds, or if the serial killer was disarmed, then they can't make another kill until three days later (for example, if you make a kill at any time on Thursday, you cannot make a kill again until after day end on Saturday). The same serial killer may not try to kill the same person twice on the same day.
 
-The mafia are allowed to give anyone they want mafia den access, but they should be wary that some players might pretend to be serial killers to gain information on the mafia.
+The Mafia are allowed to give anyone they want Mafia den access, but they should be wary that some players might pretend to be serial killers to gain information on the Mafia.
 
 A serial killer has 3 free no-kill days. Every day that they could make a kill but do not, they lose one of these no-kill days. If they fail to make a kill when they could have, and have already used up all their no-kill days, they die of bloodlust. For example, if they make kills on days 1, 4, 7, they have not used up any of these three days; if they make kills on days 2 and 6 they will die at the end of day 10, having used their no-kill days on days 1, 5, and 9.
 
-If the serial killer tries to kill someone and fails because the target was immune, they can make another kill the same day, but they cannot try to kill the same person again on the same day (this is separate from the mafia's restriction). They cannot make another kill that day if they were disarmed.
+If the serial killer tries to kill someone and fails because the target was immune, they can make another kill the same day, but they cannot try to kill the same person again on the same day (this is separate from the Mafia's restriction). They cannot make another kill that day if they were disarmed.
 
-If a serial killer visits a kill site (of a kill made by someone other than themself) before at least 3 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the mafia more easily. Any role that visits a kill site in order to gain investigative powers counts toward those 3 investigators.
+If a serial killer visits a kill site (of a kill made by someone other than themself) before at least 3 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the Mafia more easily. Any role that visits a kill site in order to gain investigative powers counts toward those 3 investigators.
 
 ##Credits:
 
