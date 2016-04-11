@@ -71,6 +71,8 @@ Information created electronically may never be shown to any other player, and o
 
 ##Town Roles:
 
+Moderators will randomly and independently assign roles to players. (Except for Mafia / Serial Killers, which are not assigned independently because there are a fixed number of mafia in game, and something about having an even number of gay knights.) Mods reserve the right to re-randomize the roles until they achieve a role distribution they're happy with.
+
 ###Investigator
 
 Once per day, an investigator may ask the Mods a question of the form "Did X kill Y?" A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
