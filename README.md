@@ -203,7 +203,7 @@ Before the start of the day, the Mafia may designate a non-player as a hitman. F
 
 ###Conscript: (1 use)
 
-Once per game, the Mafia may conscript a player by tapping them on the shoulder and saying "I'm gonna make you an offer you can't refuse." The conscript's goal is now for the Mafia to win. The conscript retains any abilities they had before they were conscripted. The conscript can use Mafia powers as if they were a member of the Mafia. You MAY conscript someone after a failed kill attempt.
+Once per game, the Mafia may conscript a player by tapping them on the shoulder and saying "I'm gonna make you an offer you can't refuse." The conscript's goal is now for the Mafia to win. The conscript retains any abilities they had before they were conscripted. The conscript can use Mafia powers as if they were a member of the Mafia. You may NOT conscript someone after a failed kill attempt.
 
 ###Disarm:
 
@@ -232,7 +232,7 @@ A serial killer has 3 free no-kill days. Every day that they could make a kill b
 
 If the serial killer tries to kill someone and fails because the target was immune, they can make another kill the same day, but they cannot try to kill the same person again on the same day (this is separate from the Mafia's restriction). They cannot make another kill that day if they were disarmed.
 
-If a serial killer visits a kill site before at least 3 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the Mafia more easily. Any role that visits a kill site in order to gain investigative powers counts toward those 3 investigators.
+If a serial killer visits a kill site before at least 2 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the Mafia more easily. Any role that visits a kill site in order to gain investigative powers counts toward those 2 investigators.
 
 ##Credits:
 
