@@ -139,17 +139,17 @@ A police officer must visit a person's death scene and message the Mods that the
 
 The Mods, being nice guys, have given some players items at the start of game. If someone who is executed has an item, the Mods give it to a random player in game. Anyone may destroy an item by telling the Mods. Players may transfer items to each other in-person. An item transfer is only valid if both the giver and the recipient are aware of what item is being transferred. **If you give an item to anyone or receive an item from anyone, you must tell the Mods.**
 
-###Shovel: (7 in game)
+###Shovel: (4 in game)
 
 A player with a shovel may use the shovel to find out all role information of any dead player, including whether or not they were conscripted. Once used, a shovel is destroyed.
 
-###Taser: (4 in game)
+###Taser: (3 in game)
 
 You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE (name of target)". A target who has been tazed may not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
 
 
-##Mafia: (5 Mafia in game)
+##Mafia: (3 Mafia in game)
 
 The Mafia are allowed to give anyone they want Mafia den access, but they should be wary that some players might pretend to be serial killers to gain information on the Mafia.
 
@@ -171,11 +171,11 @@ Each day, any Mafia can attempt to kill someone by tapping them on the shoulder 
 
 A Mafia who has not made any kills yet on a day can use this power to make an extra kill. If all living Mafia have made a kill on a day, then any Mafia can use this power to make a kill.
 
-###Poison: (3 uses)
+###Poison: (2 uses)
 
 The Mafia may use this power to poison a player. At the start of the next day the victim is informed that they have been poisoned. The victim dies two days after the poison takes effect (after the execution). 
 
-###Set a Trap: (3 charges)
+###Set a Trap: (2 charges)
 
 Once per day, the Mafia can set a trap on someone by pm-ing the Mods with a guess about that person's role. If their guess is incorrect, the trap is destroyed. If their guess is correct, an active charge is stored on the target, and a kill on that person by the Mafia no longer uses up the daily kill. If someone with an active trap charge on them dies for any reason, the mafia get their trap charge back.
 
@@ -183,11 +183,11 @@ Once per day, the Mafia can set a trap on someone by pm-ing the Mods with a gues
 
 This power is identical to set a trap, except that slaughter the weak charges can only be used on innocent children.
 
-###Frame a Townsperson: (4 uses)
+###Frame a Townsperson: (3 uses)
 
-Choose a player X and a player Y. From now on, all investigations asking "Did player X kill player Y?" will return an answer of yes. Note that if W killed Y, an investigation of "Did W kill Y?" will also return an answer of yes. This ability will not affect Gay Knight investigations.
+Choose a player X and a player Y. From now on, all investigations asking "Did player X kill player Y?" will return an answer of yes. Note that if W killed Y, an investigation of "Did W kill Y?" will also return an answer of yes. This ability will not affect Gay Knight investigations. **This ability must be used at the time of the kill.**
 
-###Plant Evidence: (2 uses)
+###Plant Evidence: (1 uses)
 
 Choose a player X, and a role and alignment. The alignment can include "conscripted" and an original role. From now on, all attempts to shovel player X will return the falsified role and alignment.
 
@@ -213,7 +213,7 @@ If a player says "BANG" to a Mafia, they may say "Disarm." (They have 10 seconds
 
 Each day, the Mafia may choose a target person to stalk. This ability works identically to the Stalker role above, and if the target makes a kill it will be reported to Mafia Den.
 
-###Don:
+###Don (1 use):
 
 Once per game, the Mafia can designate one Mafia (not a serial killer) to be the Don. The Don does not have to be someone who started the game as Mafia. When the Don makes a kill, the victim's microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far while being Don. If two of three consecutive Mafia kills are made by the Don (while they are Don), then the Mafia loses the Don powers permanently. However, they still come up negative on all kills they made as Don before they lost their Don powers.
 
