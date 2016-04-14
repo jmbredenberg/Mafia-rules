@@ -81,7 +81,7 @@ Moderators will randomly and independently assign roles to players. (Except for 
 
 Once per day, an investigator may make an investigation: they ask the Mods a question of the form "Did X kill Y?" A single investigator can only ever ask one question about Y's death; in future investigations they must ask about other deaths. (Police officers who are also investigators have a possible exception.)
 
-**An investigator cannot investigate the death of a player unless they have visited the kill scene (and have informed Mods that they did so).** Investigators are encouraged to visit the death location promptly to prevent serial killers from gaining an investigation (see below).
+**An investigator cannot investigate the death of a player unless they have visited the kill scene (and have informed Mods that they did so).**
 
 ###Desperado
 
@@ -235,8 +235,6 @@ The serial killers want the Mafia to win. Unfortunately, they don't know who the
 A serial killer has 3 free no-kill days. Every day that they could make a kill but do not, they lose one of these no-kill days. If they fail to make a kill when they could have, and have already used up all their no-kill days, they die of bloodlust. For example, if they make kills on days 1, 4, 7, they have not used up any of these three days; if they make kills on days 2 and 6 they will die at the end of day 10, having used their no-kill days on days 1, 5, and 9. Being disarmed does not use up a no-kill day.
 
 If the serial killer tries to kill someone and fails because the target was immune, they can make another kill the same day, but they cannot try to kill the same person again on the same day (this is separate from the Mafia's restriction). They cannot make another kill that day if they were disarmed.
-
-If a serial killer visits a kill site before at least 2 investigators have visited that kill site, the serial killer may make one investigation about the kill. This allows them to find the Mafia more easily. Any role that visits a kill site in order to gain investigative powers counts toward those 2 investigators.
 
 ##Credits:
 
