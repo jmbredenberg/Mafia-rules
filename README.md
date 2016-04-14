@@ -68,6 +68,10 @@ Information created electronically may never be shown to any other player, and o
  - "I'm gonna make you an offer you can't refuse."
 
 
+##'Are You Playing?'
+
+If someone asks you who you are or whether you are playing, you must respond truthfully. Identities of players should be public. (You may kill someone before answering their question, but you may not run away without answering.)
+
 
 ##Town Roles:
 
