@@ -143,7 +143,7 @@ The Mods, being nice guys, have given some players items at the start of game. I
 
 A player with a shovel may use the shovel to find out all role information of any dead player, including whether or not they were conscripted. Once used, a shovel is destroyed.
 
-###Taser: (3 in game)
+###Taser: (4 in game)
 
 You may write a target's name on a taser. Once written, it cannot be erased. 5 minutes after the target's name has been written on a taser, anyone with the taser who has line-of-sight on the target may say "I TAZE (name of target)". A target who has been tazed may not make any kills for the remainder of the day (but can make conscriptions). Once used, a taser is destroyed.
 
