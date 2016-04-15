@@ -70,10 +70,12 @@ Information created electronically may never be shown to any other player, and o
 
 ##'Are You Playing?'
 
-If someone asks you who you are or whether you are playing, you must respond truthfully. Identities of players should be public. (You may kill someone before answering their question, but you may not run away without answering.)
+If someone asks "are you X?" or "are you playing?" you must respond truthfully. Identities of players should be public. (You may kill someone before answering their question, but you may not run away without answering.)
 
 
 ##Town Roles:
+
+Every player will have one given role: either Mafia, Serial Killer, or one of the town-aligned roles listed below.
 
 Moderators will randomly and independently assign roles to players. (Except for Mafia / Serial Killers, which are not assigned independently because there are a fixed number of Mafia in game, and something about having an even number of gay knights.) Mods reserve the right to re-randomize the roles until they achieve a role distribution they're happy with.
 
