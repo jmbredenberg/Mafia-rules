@@ -105,7 +105,7 @@ The innocent child is allowed to use the phrase "I am an Innocent child and I tr
 
 ###Priest
 
-Each day, the priest can designate up to 20% of the number of players (rounding up) as sinners, and up to 20% as saints. Mods will assume the list is unchanged unless told otherwise, and will remove the last player on the list at the end of day if the previous list has become larger than 20% of game. No player can be on both their sinner list and their saint list.
+Each day, the priest can designate up to 20% of the number of players (rounding up) as sinners, and up to 20% as saints. Mods will assume the list is unchanged unless told otherwise, and will remove the last player on the list at the end of day if the previous list has become larger than 20% of game. If a priest wishes to change their list, they must notify Mods before the start of the day that their list will change. No player can be on both their sinner list and their saint list.
 
 If a sinner on their list kills a saint on their list, the priest will be notified that the killer was a sinner. 
 
@@ -113,7 +113,9 @@ If a saint kills a sinner, because of their poor judgment the priest will lose t
 
 ###Stalker
 
-The stalker chooses a person to stalk each day. If person X is being stalked by stalker Y, X is informed that they are being stalked, but not told who is stalking them. If person X makes any successful kills while being stalked, their stalker is notified that they made the kill. If stalker Y has ever stalked person X before, they may not do so again, though stalker Z may stalk person X. No manipulation abilities will prevent the stalker from learning if their target makes a kill. Mafia have an ability that allows them to simulate the stalker role.
+The stalker chooses a person to stalk each day. They must submit this choice to the Mods before the start of that day.
+
+If person X is being stalked by stalker Y, X is informed that they are being stalked, but not told who is stalking them. If person X makes any successful kills while being stalked, their stalker is notified that they made the kill. If stalker Y has ever stalked person X before, they may not do so again, though stalker Z may stalk person X. No manipulation abilities will prevent the stalker from learning if their target makes a kill. Mafia have an ability that allows them to simulate the stalker role.
 
 ###Vigilante
 
