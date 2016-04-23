@@ -28,15 +28,15 @@ Periodically, the moderators may notify noticeably inactive players about their 
 
 ##Goals
 
-The Town wins if all Mafia are dead and at least one Townie is alive. The Mafia win if all Townies are dead. Game ends immediately when either condition is satisfied. If you are currently a Townie, your goal is for the Town to win. If you are a Mafia, your goal is for the Mafia to win. If you are a serial killer, your goal is for the Mafia to win. Everyone is 100% loyal to their current team, even if they expect to switch teams. **You win with your team; your personal survival does not matter. **
+The Town wins if all Mafia are dead and at least one Townie is alive. The Mafia win if all Townies are dead. Game ends at the end of a day (after lynches and other deaths) when either condition is satisfied. If you are currently a Townie, your goal is for the Town to win. If you are a Mafia, your goal is for the Mafia to win. If you are a serial killer, your goal is for the Mafia to win. Everyone is 100% loyal to their current team, even if they expect to switch teams. **You win with your team; your personal survival does not matter. **
 
 
 
 ##Kills
 
-Some players can kill another player by tapping them on the shoulder and saying "BANG." If this happens to you, you are dead, unless you know otherwise. **Dead players tell no tales. They do not communicate, give general advice to, or make facial expressions towards living players or non-players.** If you died, all of your items now belong to the person who killed you. Try to get the physical representations to them. Also, please let the Mods know who killed you, where, and when. If you killed someone, also please let the Mods know who, where, and when.
+Some players can kill another player by tapping them on the shoulder and saying "BANG." If this happens to you, you are dead, unless you know otherwise. **Dead players tell no tales. They do not communicate, give general advice to, or make facial expressions towards living players or non-players.** If you died, all of your items now belong to the person who killed you. Also, please let the Mods know who killed you, where, and when. If you killed someone, also please let the Mods know who, where, and when.
 
-If you are dead, and someone tries to talk to you about game, you must respond with "I can't talk about that." All players (including ghosts) must respond truthfully to inquiries about whether they are alive.
+If you are dead, and someone tries to talk to you about game, you must respond with "No comment." All players (including ghosts) must respond truthfully to inquiries about whether they are alive. Immediately after you die, continue acting as you otherwise would in real life; in particular, don't signal to other players in any way that you have died, and don't go find other players and stand near them unless you would have otherwise done so.
 
 Kills will be announced officially on the forums. If a kill announcement happens within an hour of day end, game will be extended until an hour after the announcement. **If the moderators do not post your death within half an hour, you may post it.** Message the moderators again to say that you are about to do so. Start a new post including your name, time of death, and location of death. Make sure you check your messages to see if the Mafia have used any manipulation abilities on your death.
 
@@ -66,11 +66,6 @@ Information created electronically may never be shown to any other player, and o
  - "Disarm."
  - "I am an innocent child and I trust you."
  - "I'm gonna make you an offer you can't refuse."
-
-
-##'Are You Playing?'
-
-If someone asks "are you X?" or "are you playing?" you must respond truthfully. Identities of players should be public. (You may kill someone before answering their question, but you may not run away without answering.)
 
 
 ##Town Roles:
@@ -221,7 +216,7 @@ If a player says "BANG" to a Mafia, they may say "Disarm." (They have 10 seconds
 
 Each day, the Mafia may choose a target person to stalk. This ability works identically to the Stalker role above, and if the target makes a kill it will be reported to Mafia Den.
 
-###Don (1 use):
+###Don (0 uses):
 
 Once per game, the Mafia can designate one Mafia (not a serial killer) to be the Don. The Don does not have to be someone who started the game as Mafia. When the Don makes a kill, the victim's microphone and any cameras in that area do not work. Additionally, the Don comes up negative if an investigator tries to investigate them for any kill they have made so far while being Don. If two of three consecutive Mafia kills are made by the Don (while they are Don), then the Mafia loses the Don powers permanently. However, they still come up negative on all kills they made as Don before they lost their Don powers.
 
